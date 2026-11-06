@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+torch>=2.0
+earthengine-api>=0.1.380
+pyproj>=3.5
+requests>=2.31
+rasterio>=1.3

@@ -1,0 +1,366 @@
+name,lat,lon,region,centre_class,type,split,orbit,valid_frac,Tree cover,Shrubland,Grassland,Cropland,Built-up,Bare/sparse,Snow/ice,Water,Wetland,Mangroves,Moss/lichen,dominant_%,ignored_%,best_orbit,scenes_in_year,min_month,both_orbits_min_month
+new001_africa_builtup,25.3423,49.5892,Africa,Built-up,city,train,ASCENDING,1.112,6.9,0.2,0.0,0.6,63.7,28.7,0.0,0.0,0.0,0.0,0.0,63.7,0.0,ASC,30,2,3
+new002_australianz_builtup,-43.5226,172.6179,Australia/NZ,Built-up,city,train,ASCENDING,1.38,19.0,0.0,12.5,2.0,65.9,0.3,0.0,0.1,0.1,0.0,0.0,65.9,0.1,ASC,56,3,6
+new003_centralamerica_builtup,19.4313,-99.0685,Central America,Built-up,city,train,ASCENDING,1.067,6.0,2.1,3.6,4.0,81.9,2.1,0.0,0.4,0.0,0.0,0.0,81.9,0.0,ASC,120,9,17
+new004_eastasia_builtup,23.101,113.5582,East Asia,Built-up,city,train,ASCENDING,1.091,21.3,0.0,2.0,4.3,59.5,4.0,0.0,9.0,0.0,0.0,0.0,59.5,0.0,ASC,32,2,2
+new005_europe_builtup,37.995,23.6952,Europe,Built-up,city,train,DESCENDING,1.27,9.0,3.7,2.3,0.1,84.7,0.1,0.0,0.0,0.0,0.0,0.0,84.7,0.0,DESC,138,10,15
+new006_middleeast_builtup,35.7807,51.4981,Middle East,Built-up,city,train,ASCENDING,1.236,14.7,2.7,13.6,0.0,66.2,2.8,0.0,0.0,0.0,0.0,0.0,66.2,0.0,ASC,61,4,6
+new007_northamerica_builtup,33.8718,-117.7759,North America,Built-up,city,train,DESCENDING,1.208,20.2,5.9,19.1,0.5,52.0,1.2,0.0,1.2,0.0,0.0,0.0,52.0,0.0,DESC,58,3,7
+new008_seasia_builtup,22.7147,113.8097,SE Asia,Built-up,city,train,ASCENDING,1.088,15.5,0.0,2.7,1.7,69.0,5.1,0.0,5.9,0.0,0.0,0.0,69.0,0.0,ASC,32,2,2
+new009_southamerica_builtup,-12.1894,-76.9251,South America,Built-up,city,train,DESCENDING,1.029,0.7,1.4,15.3,0.1,56.6,25.8,0.0,0.2,0.0,0.0,0.0,56.6,0.0,DESC,54,3,5
+new010_africa_builtup,12.1191,15.1163,Africa,Built-up,city,train,ASCENDING,1.029,1.6,0.8,18.7,5.7,67.4,0.9,0.0,3.2,1.6,0.0,0.0,67.4,1.6,ASC,30,2,4
+new011_australianz_builtup,-33.8298,151.0224,Australia/NZ,Built-up,city,train,DESCENDING,1.207,27.4,0.0,7.0,0.0,63.1,0.5,0.0,1.4,0.4,0.1,0.0,63.1,0.4,DESC,57,3,6
+new012_centralamerica_builtup,24.0352,-104.6471,Central America,Built-up,city,train,DESCENDING,1.101,2.7,4.5,14.5,7.2,68.5,2.3,0.0,0.3,0.0,0.0,0.0,68.5,0.0,DESC,90,6,8
+new013_eastasia_builtup,34.5365,133.7478,East Asia,Built-up,city,train,DESCENDING,1.217,27.1,0.0,2.4,4.9,51.8,0.8,0.0,13.0,0.0,0.0,0.0,51.8,0.0,DESC,30,2,4
+new014_europe_builtup,51.4742,-0.4021,Europe,Built-up,city,train,ASCENDING,1.603,20.1,0.0,21.1,2.1,55.7,0.1,0.0,0.8,0.0,0.0,0.0,55.7,0.0,ASC,58,4,8
+new015_middleeast_builtup,30.0719,31.1962,Middle East,Built-up,city,train,ASCENDING,1.159,4.2,0.9,0.1,17.3,71.5,0.3,0.0,5.8,0.0,0.0,0.0,71.5,0.0,ASC,60,5,6
+new016_northamerica_builtup,33.1801,-117.2864,North America,Built-up,city,train,DESCENDING,1.199,24.4,2.2,12.7,0.5,57.8,0.9,0.0,1.2,0.3,0.0,0.0,57.8,0.3,DESC,147,8,12
+new017_seasia_builtup,14.6568,121.0502,SE Asia,Built-up,city,train,ASCENDING,1.039,14.7,0.0,0.8,0.3,83.4,0.3,0.0,0.6,0.0,0.0,0.0,83.4,0.0,ASC,31,2,3
+new018_southamerica_builtup,-23.4318,-51.9564,South America,Built-up,city,train,DESCENDING,1.095,20.2,0.0,5.4,21.2,52.6,0.4,0.0,0.1,0.0,0.0,0.0,52.6,0.0,DESC,30,2,2
+new019_africa_builtup,5.5658,-0.182,Africa,Built-up,city,train,ASCENDING,1.01,1.6,0.6,4.4,0.0,63.6,1.0,0.0,28.7,0.0,0.0,0.0,63.6,0.0,ASC,60,5,5
+new020_australianz_builtup,-37.7374,144.878,Australia/NZ,Built-up,city,train,ASCENDING,1.267,16.7,0.0,17.7,0.4,64.4,0.4,0.0,0.3,0.2,0.0,0.0,64.4,0.2,ASC,30,2,3
+new021_centralamerica_builtup,21.0034,-89.6811,Central America,Built-up,city,train,ASCENDING,1.075,32.1,0.1,13.5,0.2,52.9,0.8,0.0,0.4,0.0,0.0,0.0,52.9,0.0,ASC,30,2,2
+new022_eastasia_builtup,37.4066,140.3505,East Asia,Built-up,city,train,ASCENDING,1.262,7.9,0.0,1.5,31.8,57.2,0.7,0.0,0.9,0.0,0.0,0.0,57.2,0.0,ASC,56,3,6
+new023_middleeast_builtup,37.0653,37.399,Middle East,Built-up,city,train,ASCENDING,1.256,5.5,0.1,16.8,8.1,63.0,6.5,0.0,0.0,0.0,0.0,0.0,63.0,0.0,ASC,119,9,13
+new024_northamerica_builtup,25.9082,-97.4965,North America,Built-up,city,train,ASCENDING,1.117,27.3,0.0,14.0,5.4,50.4,0.5,0.0,2.5,0.0,0.0,0.0,50.4,0.0,ASC,30,2,4
+new025_seasia_builtup,22.8494,108.2941,SE Asia,Built-up,city,train,ASCENDING,1.089,13.5,0.0,1.2,3.5,75.1,2.6,0.0,4.0,0.0,0.0,0.0,75.1,0.0,ASC,114,7,7
+new026_southamerica_builtup,-12.0456,-76.9655,South America,Built-up,city,train,DESCENDING,1.028,2.0,0.9,1.6,0.3,76.1,18.1,0.0,1.0,0.0,0.0,0.0,76.1,0.0,DESC,54,3,5
+new027_africa_builtup,-33.9466,18.6602,Africa,Built-up,city,train,ASCENDING,1.208,8.5,6.8,20.5,3.2,60.0,0.7,0.0,0.2,0.0,0.0,0.0,60.0,0.0,ASC,90,6,6
+new028_australianz_builtup,-37.8812,145.0307,Australia/NZ,Built-up,city,train,ASCENDING,1.269,22.5,0.0,4.1,0.0,68.1,0.2,0.0,5.1,0.0,0.0,0.0,68.1,0.0,ASC,30,2,3
+new029_centralamerica_builtup,19.0091,-98.2017,Central America,Built-up,city,train,ASCENDING,1.064,13.1,2.7,7.2,1.1,75.7,0.1,0.0,0.1,0.0,0.0,0.0,75.7,0.0,ASC,61,5,9
+new030_eastasia_builtup,22.9842,113.1315,East Asia,Built-up,city,train,ASCENDING,1.091,15.1,0.0,4.0,4.2,69.8,1.9,0.0,5.0,0.0,0.0,0.0,69.8,0.0,ASC,32,2,2
+new031_middleeast_builtup,21.4526,39.2541,Middle East,Built-up,city,train,ASCENDING,1.081,0.3,0.8,0.0,0.1,65.9,32.8,0.0,0.1,0.0,0.0,0.0,65.9,0.0,ASC,29,2,3
+new032_northamerica_builtup,41.458,-81.6412,North America,Built-up,city,train,ASCENDING,1.336,34.1,0.0,9.8,0.1,53.8,1.3,0.0,0.9,0.0,0.0,0.0,53.8,0.0,ASC,56,4,4
+new033_seasia_builtup,24.2328,120.6908,SE Asia,Built-up,city,train,DESCENDING,1.101,17.9,0.0,2.3,19.0,60.2,0.6,0.0,0.0,0.0,0.0,0.0,60.2,0.0,DESC,59,3,7
+new034_southamerica_builtup,-23.5036,-46.3958,South America,Built-up,city,train,DESCENDING,1.096,10.9,0.0,7.4,0.3,80.7,0.5,0.0,0.3,0.0,0.0,0.0,80.7,0.0,DESC,56,3,3
+new035_africa_builtup,-8.8746,13.2299,Africa,Built-up,city,train,ASCENDING,1.018,1.1,0.1,6.4,0.3,81.2,0.8,0.0,10.1,0.0,0.0,0.0,81.2,0.0,ASC,29,2,2
+new036_africa_builtup,8.1395,4.2018,Africa,Built-up,town,train,ASCENDING,1.017,24.5,19.6,5.6,21.5,28.2,0.1,0.0,0.5,0.0,0.0,0.0,28.2,0.0,ASC,60,4,4
+new037_australianz_builtup,-36.7807,174.7514,Australia/NZ,Built-up,town,train,DESCENDING,1.251,26.1,0.0,5.7,0.0,33.2,0.1,0.0,33.4,0.0,1.4,0.0,33.4,0.0,DESC,86,6,8
+new038_centralamerica_builtup,19.4089,-98.1702,Central America,Built-up,town,train,ASCENDING,1.066,28.3,0.4,21.0,23.7,25.7,0.7,0.0,0.0,0.0,0.0,0.0,28.3,0.0,ASC,61,5,9
+new039_centralasia_builtup,41.1975,80.2442,Central Asia,Built-up,town,train,ASCENDING,1.331,6.2,4.0,1.0,36.4,37.1,13.2,0.0,2.1,0.0,0.0,0.0,37.1,0.0,ASC,30,2,4
+new040_eastasia_builtup,34.0874,119.3209,East Asia,Built-up,town,train,ASCENDING,1.21,4.8,0.1,7.7,46.3,32.6,2.9,0.0,5.6,0.0,0.0,0.0,46.3,0.0,ASC,74,3,4
+new041_europe_builtup,52.2872,10.4541,Europe,Built-up,town,train,DESCENDING,1.633,26.6,0.0,15.2,33.3,22.8,0.1,0.0,1.9,0.1,0.0,0.0,33.3,0.1,DESC,119,8,17
+new042_middleeast_builtup,38.3364,38.2345,Middle East,Built-up,town,train,DESCENDING,1.278,9.0,0.0,39.2,15.4,29.8,6.3,0.0,0.3,0.0,0.0,0.0,39.2,0.0,DESC,115,8,13
+new043_northamerica_builtup,32.0212,-81.1426,North America,Built-up,town,train,ASCENDING,1.184,55.4,0.0,9.6,0.4,25.8,0.2,0.0,2.8,5.7,0.0,0.0,55.4,5.7,ASC,59,4,4
+new044_russiaboreal_builtup,57.9691,60.0411,Russia boreal,Built-up,town,train,DESCENDING,1.88,61.1,0.0,15.5,0.4,20.2,1.8,0.0,0.7,0.2,0.0,0.0,61.1,0.2,DESC,27,2,2
+new045_seasia_builtup,6.9178,122.1057,SE Asia,Built-up,town,train,ASCENDING,1.015,27.7,0.0,6.3,1.3,20.7,0.4,0.0,34.8,0.1,8.7,0.0,34.8,0.1,ASC,29,2,3
+new046_southamerica_builtup,-19.4567,-42.551,South America,Built-up,town,train,DESCENDING,1.065,40.6,0.0,26.0,0.0,31.6,0.6,0.0,1.2,0.0,0.0,0.0,40.6,0.0,DESC,30,2,2
+new047_africa_builtup,-6.1437,23.6189,Africa,Built-up,town,train,DESCENDING,1.011,30.6,9.4,29.7,0.7,27.2,0.2,0.0,2.0,0.2,0.0,0.0,30.6,0.2,DESC,31,2,2
+new048_australianz_builtup,-38.1552,145.1789,Australia/NZ,Built-up,town,train,ASCENDING,1.274,50.0,0.0,22.8,0.7,25.1,0.7,0.0,0.5,0.2,0.0,0.0,50.0,0.2,ASC,30,2,3
+new049_centralamerica_builtup,19.8536,-90.4986,Central America,Built-up,town,train,DESCENDING,1.068,34.5,0.1,4.1,0.1,30.8,0.4,0.0,23.4,0.2,6.4,0.0,34.5,0.2,DESC,36,2,5
+new050_centralasia_builtup,36.8452,54.4311,Central Asia,Built-up,town,train,DESCENDING,1.251,17.7,0.3,9.3,39.4,32.8,0.4,0.0,0.0,0.0,0.0,0.0,39.4,0.0,DESC,59,4,7
+new051_eastasia_builtup,41.0179,113.1495,East Asia,Built-up,town,train,ASCENDING,1.327,11.3,0.0,34.5,3.1,42.7,5.1,0.0,3.3,0.0,0.0,0.0,42.7,0.0,ASC,31,2,2
+new052_europe_builtup,48.2044,16.5267,Europe,Built-up,town,train,DESCENDING,1.5,26.8,0.0,8.3,38.6,21.4,0.3,0.0,4.5,0.1,0.0,0.0,38.6,0.1,DESC,118,8,17
+new053_middleeast_builtup,38.3723,34.0393,Middle East,Built-up,town,train,DESCENDING,1.278,1.0,0.0,48.6,18.0,28.0,4.3,0.0,0.0,0.0,0.0,0.0,48.6,0.0,DESC,119,8,12
+new054_northamerica_builtup,44.9435,-93.2654,North America,Built-up,town,train,ASCENDING,1.414,47.0,0.0,5.8,0.0,40.2,0.1,0.0,6.7,0.1,0.0,0.0,47.0,0.1,ASC,30,2,2
+new055_russiaboreal_builtup,52.3411,76.9429,Russia boreal,Built-up,town,train,DESCENDING,1.635,14.5,0.0,43.8,8.2,27.2,1.6,0.0,4.1,0.6,0.0,0.0,43.8,0.6,DESC,57,3,3
+new056_seasia_builtup,22.3913,112.7093,SE Asia,Built-up,town,train,ASCENDING,1.087,27.3,0.0,5.5,23.7,29.9,1.9,0.0,11.8,0.0,0.0,0.0,29.9,0.0,ASC,63,4,4
+new057_southamerica_builtup,-22.3673,-46.9483,South America,Built-up,town,train,DESCENDING,1.086,39.3,0.0,9.6,19.0,30.7,0.4,0.0,1.0,0.0,0.0,0.0,39.3,0.0,DESC,54,2,2
+new058_africa_builtup,30.3099,31.2052,Africa,Built-up,town,train,ASCENDING,1.162,28.4,0.0,0.0,51.3,20.2,0.1,0.0,0.0,0.0,0.0,0.0,51.3,0.0,ASC,60,5,8
+new059_australianz_builtup,-35.4333,149.118,Australia/NZ,Built-up,town,train,DESCENDING,1.23,29.4,0.0,41.1,0.3,27.2,0.8,0.0,1.2,0.0,0.0,0.0,41.1,0.0,DESC,56,2,2
+new060_centralamerica_builtup,20.662,-105.2489,Central America,Built-up,town,train,DESCENDING,1.075,17.7,0.1,10.3,2.5,28.5,1.5,0.0,37.1,0.0,2.3,0.0,37.1,0.0,DESC,59,3,8
+new061_centralasia_builtup,39.7333,66.994,Central Asia,Built-up,town,train,ASCENDING,1.302,2.4,0.0,10.7,47.0,31.6,5.1,0.0,3.1,0.0,0.0,0.0,47.0,0.0,ASC,118,9,14
+new062_eastasia_builtup,33.3732,130.6936,East Asia,Built-up,town,train,ASCENDING,1.201,13.6,0.0,7.4,49.1,27.4,0.7,0.0,1.8,0.0,0.0,0.0,49.1,0.0,ASC,59,4,7
+new063_europe_builtup,50.01,8.2981,Europe,Built-up,town,train,DESCENDING,1.555,27.0,0.0,14.6,17.2,34.2,0.3,0.0,6.6,0.0,0.0,0.0,34.2,0.0,DESC,115,8,13
+new064_middleeast_builtup,41.6781,44.864,Middle East,Built-up,town,train,DESCENDING,1.341,20.8,0.6,28.0,5.8,41.9,0.7,0.0,2.3,0.0,0.0,0.0,41.9,0.0,DESC,89,6,11
+new065_northamerica_builtup,38.8035,-121.2614,North America,Built-up,town,train,ASCENDING,1.285,24.0,0.0,26.7,0.9,46.7,1.6,0.0,0.0,0.0,0.0,0.0,46.7,0.0,ASC,117,8,12
+new066_africa_water,11.3869,8.4553,Africa,Water,rural/other,train,ASCENDING,1.027,0.1,0.2,6.6,43.8,1.4,0.2,0.0,41.1,6.6,0.0,0.0,43.8,6.6,ASC,30,2,2
+new067_australianz_water,-35.7971,173.5836,Australia/NZ,Water,rural/other,train,ASCENDING,1.235,7.9,0.0,27.9,0.0,0.0,0.8,0.0,62.9,0.6,0.0,0.0,62.9,0.6,ASC,60,4,8
+new068_centralamerica_water,24.7314,-112.0627,Central America,Water,rural/other,train,DESCENDING,1.106,0.0,6.9,0.0,0.0,0.0,4.7,0.0,84.0,0.0,4.4,0.0,84.0,0.0,DESC,31,2,2
+new069_centralasia_water,44.4988,51.1298,Central Asia,Water,rural/other,train,ASCENDING,1.403,0.0,0.0,17.1,0.0,0.0,10.3,0.0,71.2,1.4,0.0,0.0,71.2,1.4,ASC,30,2,4
+new070_middleeast_water,40.9774,39.9143,Middle East,Water,rural/other,train,ASCENDING,1.327,22.2,0.0,0.5,0.0,3.5,0.0,0.0,73.7,0.0,0.0,0.0,73.7,0.0,ASC,117,9,13
+new071_northamerica_water,37.5863,-122.1058,North America,Water,town,train,DESCENDING,1.265,4.1,0.1,10.2,1.0,30.2,1.6,0.0,42.5,10.3,0.0,0.0,42.5,10.3,DESC,96,7,12
+new072_russiaboreal_water,64.6615,43.3908,Russia boreal,Water,rural/other,train,DESCENDING,2.328,66.9,0.1,18.6,0.3,0.7,0.7,0.0,8.1,4.7,0.0,0.0,66.9,4.7,DESC,30,2,2
+new073_seasia_water,-6.768,111.7661,SE Asia,Water,rural/other,train,DESCENDING,1.014,6.1,0.0,7.4,21.6,3.1,0.4,0.0,61.2,0.1,0.0,0.0,61.2,0.1,DESC,53,2,2
+new074_southamerica_water,-31.8355,-54.3639,South America,Water,rural/other,train,DESCENDING,1.18,16.5,0.1,62.2,18.0,0.0,0.0,0.0,3.1,0.1,0.0,0.0,62.2,0.1,DESC,30,2,2
+new075_australianz_water,-44.5287,171.239,Australia/NZ,Water,rural/other,train,ASCENDING,1.404,1.3,0.0,9.0,5.2,0.5,0.4,0.0,83.5,0.0,0.0,0.0,83.5,0.0,ASC,84,4,8
+new076_centralasia_water,46.6323,75.6583,Central Asia,Water,rural/other,train,DESCENDING,1.457,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.4,13.5,0.0,0.0,86.4,13.5,DESC,89,6,11
+new077_northamerica_water,51.5641,-65.4176,North America,Water,rural/other,train,ASCENDING,1.606,33.9,0.0,29.1,0.0,0.0,0.0,0.0,34.7,0.1,0.0,2.3,34.7,2.4,ASC,60,4,4
+new078_russiaboreal_water,55.1394,91.7067,Russia boreal,Water,rural/other,train,DESCENDING,1.747,16.5,0.0,10.8,0.0,0.0,0.0,0.0,72.7,0.0,0.0,0.0,72.7,0.0,DESC,54,3,3
+new079_southamerica_water,-3.4173,-51.9115,South America,Water,rural/other,train,DESCENDING,1.009,50.4,0.0,9.9,0.0,0.6,0.5,0.0,38.6,0.0,0.0,0.0,50.4,0.0,DESC,29,2,2
+new080_northamerica_water,53.747,-74.9577,North America,Water,rural/other,train,ASCENDING,1.69,21.1,0.5,15.9,0.0,0.0,0.5,0.0,61.6,0.0,0.0,0.2,61.6,0.2,ASC,34,2,2
+new081_africa_bare,29.4161,32.8356,Africa,Bare,rural/other,train,ASCENDING,1.153,0.0,0.0,0.0,0.0,0.9,81.1,0.0,18.0,0.0,0.0,0.0,81.1,0.0,ASC,119,8,13
+new082_australianz_bare,-29.0328,142.9062,Australia/NZ,Bare,rural/other,train,DESCENDING,1.148,0.0,0.0,63.9,0.0,0.0,35.8,0.0,0.0,0.2,0.0,0.0,63.9,0.2,DESC,60,4,4
+new083_centralamerica_bare,24.8841,-112.2199,Central America,Bare,rural/other,train,DESCENDING,1.108,0.1,2.4,0.5,0.0,0.0,50.9,0.0,30.7,0.4,15.0,0.0,50.9,0.4,DESC,61,4,4
+new084_centralasia_bare,40.4834,53.2947,Central Asia,Bare,rural/other,train,ASCENDING,1.316,0.0,0.1,9.5,0.0,0.0,90.4,0.0,0.0,0.0,0.0,0.0,90.4,0.0,ASC,61,5,8
+new085_eastasia_bare,46.0529,108.86,East Asia,Bare,rural/other,train,DESCENDING,1.441,0.0,0.0,87.5,0.0,0.0,12.4,0.0,0.0,0.0,0.0,0.0,87.5,0.0,DESC,57,3,4
+new086_europe_bare,44.7683,6.232,Europe,Bare,rural/other,train,ASCENDING,1.408,12.0,0.0,45.9,0.0,0.0,41.1,0.3,0.2,0.0,0.0,0.4,45.9,0.7,ASC,116,7,12
+new087_middleeast_bare,15.1778,30.2529,Middle East,Bare,rural/other,train,DESCENDING,1.041,0.0,0.0,9.5,0.0,0.0,90.5,0.0,0.0,0.0,0.0,0.0,90.5,0.0,DESC,30,2,2
+new088_northamerica_bare,32.6456,-114.1647,North America,Bare,rural/other,train,ASCENDING,1.19,1.6,6.0,1.1,18.8,3.2,69.1,0.0,0.1,0.0,0.0,0.0,69.1,0.0,ASC,89,6,10
+new089_russiaboreal_bare,62.1193,141.4509,Russia boreal,Bare,rural/other,train,ASCENDING,2.132,1.4,0.0,0.7,0.0,0.0,79.3,1.0,1.8,0.0,0.0,15.8,79.3,16.8,ASC,31,2,2
+new090_seasia_bare,-2.2585,115.5031,SE Asia,Bare,rural/other,train,DESCENDING,1.008,56.6,0.0,12.0,0.6,1.0,26.5,0.0,3.4,0.0,0.0,0.0,56.6,0.0,DESC,58,4,4
+new091_southamerica_bare,-28.4578,-69.2579,South America,Bare,rural/other,train,DESCENDING,1.142,0.0,0.0,13.7,0.0,0.0,86.3,0.0,0.0,0.0,0.0,0.0,86.3,0.0,DESC,87,6,9
+new092_africa_bare,33.5574,1.6641,Africa,Bare,rural/other,train,ASCENDING,1.204,0.0,0.0,6.5,0.0,0.0,93.5,0.0,0.0,0.0,0.0,0.0,93.5,0.0,ASC,60,4,5
+new093_australianz_bare,-34.1891,141.2128,Australia/NZ,Bare,rural/other,train,DESCENDING,1.213,2.9,0.7,91.2,0.0,0.0,4.5,0.0,0.6,0.1,0.0,0.0,91.2,0.1,DESC,59,3,3
+new094_centralamerica_bare,23.8241,-97.748,Central America,Bare,rural/other,train,ASCENDING,1.099,3.0,1.3,23.4,0.1,0.9,20.5,0.0,47.9,2.9,0.0,0.0,47.9,2.9,ASC,61,5,7
+new095_centralasia_bare,39.0865,55.4192,Central Asia,Bare,rural/other,train,ASCENDING,1.291,0.0,0.1,28.3,0.0,0.0,71.6,0.0,0.0,0.0,0.0,0.0,71.6,0.0,ASC,91,6,13
+new096_eastasia_bare,43.5691,112.6958,East Asia,Bare,rural/other,train,ASCENDING,1.381,0.0,0.0,7.8,0.2,0.0,92.1,0.0,0.0,0.0,0.0,0.0,92.1,0.0,ASC,31,2,2
+new097_europe_bare,44.8222,6.4296,Europe,Bare,rural/other,train,ASCENDING,1.41,31.0,0.0,28.9,0.0,0.5,34.5,1.0,0.1,0.0,0.0,4.0,34.5,5.0,ASC,116,7,16
+new098_middleeast_bare,14.2256,46.1711,Middle East,Bare,rural/other,train,ASCENDING,1.038,0.1,18.4,0.1,0.8,0.0,80.7,0.0,0.0,0.0,0.0,0.0,80.7,0.0,ASC,59,4,4
+new099_northamerica_bare,46.7671,-109.3902,North America,Bare,rural/other,train,DESCENDING,1.46,71.8,0.0,18.8,0.0,0.0,9.1,0.0,0.0,0.0,0.0,0.3,71.8,0.3,DESC,91,6,10
+new100_seasia_bare,23.1683,116.5496,SE Asia,Bare,rural/other,train,ASCENDING,1.094,8.0,0.0,11.9,17.1,11.9,4.5,0.0,46.0,0.6,0.0,0.0,46.0,0.6,ASC,31,2,2
+new101_southamerica_bare,-12.6385,-76.5927,South America,Bare,rural/other,train,DESCENDING,1.031,4.3,25.0,25.6,1.5,2.7,40.3,0.0,0.6,0.1,0.0,0.0,40.3,0.1,DESC,30,2,3
+new102_africa_bare,31.343,-5.1407,Africa,Bare,rural/other,train,ASCENDING,1.174,0.1,0.2,9.9,0.0,0.0,89.9,0.0,0.0,0.0,0.0,0.0,89.9,0.0,ASC,109,7,10
+new103_australianz_bare,-22.1562,117.8611,Australia/NZ,Bare,rural/other,train,DESCENDING,1.086,0.5,18.1,58.9,0.0,0.0,22.2,0.0,0.2,0.0,0.0,0.0,58.9,0.0,DESC,57,4,4
+new104_centralamerica_bare,24.5967,-110.7871,Central America,Bare,rural/other,train,DESCENDING,1.105,0.0,58.4,0.1,0.0,0.0,39.3,0.0,2.2,0.0,0.0,0.0,58.4,0.0,DESC,30,2,2
+new105_centralasia_bare,39.0371,57.2249,Central Asia,Bare,rural/other,train,ASCENDING,1.29,0.0,23.5,0.8,0.0,0.0,75.7,0.0,0.0,0.0,0.0,0.0,75.7,0.0,ASC,90,6,10
+new106_eastasia_bare,46.9872,100.8381,East Asia,Bare,rural/other,train,DESCENDING,1.466,7.2,0.0,57.9,0.0,0.0,29.7,0.0,0.0,0.0,0.0,5.2,57.9,5.2,DESC,52,3,3
+new107_europe_bare,44.5213,6.6811,Europe,Bare,rural/other,train,ASCENDING,1.403,21.7,0.0,49.9,0.0,0.1,25.6,0.0,0.0,0.0,0.0,2.6,49.9,2.6,ASC,116,7,16
+new108_middleeast_bare,33.6023,50.4111,Middle East,Bare,rural/other,train,ASCENDING,1.205,0.0,0.3,17.7,3.9,0.1,78.0,0.0,0.0,0.0,0.0,0.0,78.0,0.0,ASC,89,6,7
+new109_northamerica_bare,26.254,-103.7398,North America,Bare,rural/other,train,DESCENDING,1.12,0.0,18.8,0.0,0.5,0.0,80.6,0.0,0.0,0.0,0.0,0.0,80.6,0.0,DESC,61,4,6
+new110_seasia_bare,17.9446,106.5064,SE Asia,Bare,rural/other,train,DESCENDING,1.057,22.9,0.0,5.9,2.1,3.0,2.6,0.0,63.6,0.0,0.0,0.0,63.6,0.0,DESC,31,2,4
+new111_southamerica_bare,-13.9186,-75.7842,South America,Bare,rural/other,train,DESCENDING,1.037,0.3,8.2,3.0,33.1,0.5,55.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,DESC,30,2,4
+new112_africa_bare,25.8318,14.9771,Africa,Bare,rural/other,train,ASCENDING,1.116,1.0,0.1,0.8,10.2,0.3,87.8,0.0,0.0,0.0,0.0,0.0,87.8,0.0,ASC,54,3,3
+new113_australianz_bare,-18.8998,123.4352,Australia/NZ,Bare,rural/other,train,DESCENDING,1.063,0.6,24.4,55.4,0.0,0.0,19.7,0.0,0.0,0.0,0.0,0.0,55.4,0.0,DESC,30,2,2
+new114_centralasia_bare,37.4875,54.759,Central Asia,Bare,rural/other,train,DESCENDING,1.262,0.0,15.4,9.3,10.5,0.8,59.7,0.0,4.0,0.2,0.0,0.0,59.7,0.2,DESC,59,4,7
+new115_eastasia_bare,43.1558,113.383,East Asia,Bare,rural/other,train,ASCENDING,1.371,0.0,0.0,30.7,0.1,0.0,69.2,0.0,0.0,0.0,0.0,0.0,69.2,0.0,ASC,60,4,5
+new116_europe_bare,42.0195,20.4748,Europe,Bare,rural/other,train,DESCENDING,1.348,53.3,2.2,36.7,5.8,1.3,0.6,0.0,0.1,0.0,0.0,0.0,53.3,0.0,DESC,122,7,11
+new117_middleeast_bare,13.4306,45.8432,Middle East,Bare,rural/other,train,ASCENDING,1.035,0.1,4.3,6.3,0.0,0.1,83.5,0.0,5.8,0.0,0.0,0.0,83.5,0.0,ASC,31,2,4
+new118_northamerica_bare,38.1702,-115.081,North America,Bare,rural/other,train,DESCENDING,1.274,0.0,28.7,8.7,0.0,0.0,62.6,0.0,0.0,0.0,0.0,0.0,62.6,0.0,DESC,71,4,8
+new119_seasia_bare,24.161,115.9163,SE Asia,Bare,rural/other,train,ASCENDING,1.101,75.1,0.0,19.2,2.9,1.6,0.9,0.0,0.3,0.0,0.0,0.0,75.1,0.0,ASC,91,6,6
+new120_southamerica_bare,-10.6173,-77.4326,South America,Bare,rural/other,train,ASCENDING,1.023,1.4,3.4,0.0,1.1,0.1,93.8,0.0,0.2,0.0,0.0,0.0,93.8,0.0,ASC,30,2,2
+new121_africa_bare,14.257,16.7019,Africa,Bare,rural/other,train,DESCENDING,1.038,0.7,3.0,33.6,0.0,0.0,62.7,0.0,0.0,0.0,0.0,0.0,62.7,0.0,DESC,30,2,2
+new122_australianz_bare,-27.4068,137.2423,Australia/NZ,Bare,rural/other,train,DESCENDING,1.13,0.0,5.8,10.0,0.0,0.0,84.2,0.0,0.0,0.0,0.0,0.0,84.2,0.0,DESC,58,3,3
+new123_centralasia_bare,41.0224,56.1334,Central Asia,Bare,rural/other,train,DESCENDING,1.328,0.0,2.4,17.4,0.0,0.0,80.2,0.0,0.0,0.0,0.0,0.0,80.2,0.0,DESC,86,6,11
+new124_europe_bare,40.9056,-0.3077,Europe,Bare,rural/other,train,DESCENDING,1.324,28.6,9.0,32.9,28.3,0.6,0.5,0.0,0.0,0.0,0.0,0.0,32.9,0.0,DESC,180,13,24
+new125_northamerica_bare,50.6792,-115.4538,North America,Bare,rural/other,train,ASCENDING,1.577,43.0,0.0,6.5,0.0,0.0,39.1,3.5,0.7,0.0,0.0,7.3,43.0,10.8,ASC,64,4,8
+new126_africa_grass,9.8104,27.4457,Africa,Grass,rural/other,train,DESCENDING,1.022,15.7,58.4,25.8,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.4,0.0,DESC,60,4,4
+new127_australianz_grass,-27.0655,122.3527,Australia/NZ,Grass,rural/other,train,DESCENDING,1.128,8.3,68.5,17.6,0.0,0.0,5.6,0.0,0.0,0.0,0.0,0.0,68.5,0.0,DESC,58,3,3
+new128_centralamerica_grass,16.166,-92.4749,Central America,Grass,rural/other,train,ASCENDING,1.048,30.6,26.3,33.4,9.3,0.4,0.0,0.0,0.0,0.0,0.0,0.0,33.4,0.0,ASC,86,5,9
+new129_centralasia_grass,38.26,58.2714,Central Asia,Grass,rural/other,train,DESCENDING,1.276,0.0,74.3,3.6,2.6,0.0,19.5,0.0,0.0,0.0,0.0,0.0,74.3,0.0,DESC,31,2,4
+new130_eastasia_grass,40.2633,128.2996,East Asia,Grass,rural/other,train,DESCENDING,1.313,32.0,0.0,20.2,38.0,5.0,4.2,0.0,0.7,0.0,0.0,0.0,38.0,0.0,DESC,29,2,2
+new131_europe_grass,47.7417,20.8655,Europe,Grass,rural/other,train,ASCENDING,1.487,4.4,0.0,71.9,21.0,0.0,0.0,0.0,0.2,2.4,0.0,0.0,71.9,2.4,ASC,150,11,20
+new132_middleeast_grass,13.3228,40.0311,Middle East,Grass,rural/other,train,ASCENDING,1.034,0.0,42.5,29.9,0.0,0.0,27.6,0.0,0.0,0.0,0.0,0.0,42.5,0.0,ASC,29,2,3
+new133_northamerica_grass,52.8352,-74.1133,North America,Grass,rural/other,train,ASCENDING,1.653,28.3,0.2,59.1,0.0,0.0,0.0,0.0,9.3,0.0,0.0,3.2,59.1,3.2,ASC,34,2,2
+new134_russiaboreal_grass,60.4439,143.6248,Russia boreal,Grass,rural/other,train,ASCENDING,2.021,71.3,1.3,26.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,71.3,1.3,ASC,59,3,5
+new135_seasia_grass,15.7662,108.3839,SE Asia,Grass,rural/other,train,ASCENDING,1.044,10.9,0.2,42.2,18.3,11.3,10.4,0.0,6.5,0.1,0.0,0.0,42.2,0.1,ASC,30,2,4
+new136_southamerica_grass,-17.4131,-52.9805,South America,Grass,rural/other,train,DESCENDING,1.053,21.7,8.6,44.4,25.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,44.4,0.0,DESC,30,2,2
+new137_africa_grass,-10.3388,25.7973,Africa,Grass,rural/other,train,DESCENDING,1.023,23.3,9.3,67.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.4,0.0,DESC,58,2,2
+new138_australianz_grass,-26.2884,133.402,Australia/NZ,Grass,rural/other,train,DESCENDING,1.12,0.3,77.8,21.8,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,77.8,0.0,DESC,59,4,4
+new139_centralamerica_grass,23.6714,-98.6912,Central America,Grass,rural/other,train,ASCENDING,1.098,1.2,51.8,17.0,28.8,0.3,0.5,0.0,0.4,0.0,0.0,0.0,51.8,0.0,ASC,31,2,4
+new140_centralasia_grass,47.881,86.986,Central Asia,Grass,rural/other,train,ASCENDING,1.491,1.8,10.1,22.3,53.4,1.1,9.8,0.0,0.0,1.5,0.0,0.0,53.4,1.5,ASC,49,2,4
+new141_eastasia_grass,38.8035,103.5375,East Asia,Grass,rural/other,train,BOTH,1.286,0.0,0.6,0.1,20.8,0.0,78.4,0.0,0.0,0.0,0.0,0.0,78.4,0.0,DESC,28,1,3
+new142_europe_grass,40.8292,-0.5728,Europe,Grass,rural/other,train,ASCENDING,1.323,43.0,15.5,31.8,7.3,0.7,1.6,0.0,0.0,0.0,0.0,0.0,43.0,0.0,ASC,151,11,20
+new143_middleeast_grass,36.4095,43.6244,Middle East,Grass,rural/other,train,ASCENDING,1.246,0.2,0.0,55.6,37.5,0.9,5.8,0.0,0.0,0.0,0.0,0.0,55.6,0.0,ASC,115,8,12
+new144_northamerica_grass,47.2701,-100.7124,North America,Grass,rural/other,train,ASCENDING,1.474,0.1,0.0,42.4,56.7,0.0,0.0,0.0,0.6,0.1,0.0,0.0,56.7,0.1,ASC,85,4,4
+new145_russiaboreal_grass,52.4579,115.3998,Russia boreal,Grass,rural/other,train,DESCENDING,1.639,73.3,0.0,25.5,0.1,0.0,0.8,0.0,0.3,0.0,0.0,0.0,73.3,0.0,DESC,51,3,3
+new146_seasia_grass,11.1085,107.2745,SE Asia,Grass,rural/other,train,DESCENDING,1.025,64.4,0.0,20.7,9.4,1.7,0.1,0.0,3.7,0.0,0.0,0.0,64.4,0.0,DESC,56,3,5
+new147_southamerica_grass,-12.8361,-67.2816,South America,Grass,rural/other,train,DESCENDING,1.032,15.9,7.8,74.1,0.0,0.0,0.0,0.0,0.0,2.1,0.0,0.0,74.1,2.1,DESC,29,2,2
+new148_africa_grass,6.527,33.6037,Africa,Grass,rural/other,train,DESCENDING,1.014,17.9,26.5,44.0,0.0,0.0,0.0,0.0,0.0,11.6,0.0,0.0,44.0,11.6,DESC,42,2,2
+new149_australianz_grass,-20.4314,147.6493,Australia/NZ,Grass,rural/other,train,DESCENDING,1.073,36.9,0.0,63.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.1,0.0,DESC,31,2,2
+new150_centralamerica_grass,21.7804,-97.9142,Central America,Grass,rural/other,train,ASCENDING,1.083,12.3,0.0,86.6,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.6,0.0,ASC,31,2,4
+new151_eastasia_grass,45.4555,100.0251,East Asia,Grass,rural/other,train,DESCENDING,1.426,0.0,14.4,7.1,0.1,0.0,78.3,0.0,0.0,0.1,0.0,0.0,78.3,0.1,DESC,52,3,3
+new152_europe_grass,43.3265,2.6297,Europe,Grass,rural/other,train,DESCENDING,1.376,41.1,36.9,9.9,9.8,2.1,0.2,0.0,0.0,0.0,0.0,0.0,41.1,0.0,DESC,119,8,17
+new153_middleeast_grass,38.5205,48.0351,Middle East,Grass,rural/other,train,DESCENDING,1.279,0.0,0.0,68.9,22.0,1.2,5.3,0.0,2.6,0.0,0.0,0.0,68.9,0.0,DESC,30,2,4
+new154_northamerica_grass,34.6219,-118.4901,North America,Grass,rural/other,train,DESCENDING,1.218,27.3,52.5,16.4,0.0,0.1,3.7,0.0,0.0,0.0,0.0,0.0,52.5,0.0,DESC,117,8,17
+new155_russiaboreal_grass,58.1397,101.6915,Russia boreal,Grass,rural/other,train,DESCENDING,1.889,81.8,0.0,18.1,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,81.8,0.0,DESC,29,2,2
+new156_seasia_grass,-1.5084,121.6026,SE Asia,Grass,rural/other,train,DESCENDING,1.007,56.8,0.0,43.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.8,0.0,DESC,30,2,4
+new157_southamerica_grass,-36.0351,-72.7165,South America,Grass,rural/other,train,DESCENDING,1.239,81.9,0.0,15.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81.9,0.0,DESC,30,2,2
+new158_africa_grass,0.7509,40.8575,Africa,Grass,rural/other,train,ASCENDING,1.007,0.0,54.4,45.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54.4,0.0,ASC,30,2,2
+new159_australianz_grass,-25.0128,122.2314,Australia/NZ,Grass,rural/other,train,DESCENDING,1.109,0.4,31.3,64.6,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,64.6,0.0,DESC,30,2,2
+new160_centralamerica_grass,17.464,-99.1943,Central America,Grass,rural/other,train,ASCENDING,1.055,38.8,38.0,16.8,4.5,1.6,0.1,0.0,0.0,0.0,0.0,0.0,38.8,0.0,ASC,59,4,9
+new161_eastasia_grass,42.7157,115.0853,East Asia,Grass,rural/other,train,BOTH,1.362,0.0,0.0,86.7,2.0,0.0,9.8,0.0,1.2,0.3,0.0,0.0,86.7,0.3,DESC,36,1,3
+new162_europe_grass,37.4066,23.2865,Europe,Grass,rural/other,train,DESCENDING,1.261,22.7,15.3,19.0,1.4,1.0,0.1,0.0,40.5,0.1,0.0,0.0,40.5,0.1,DESC,60,4,9
+new163_middleeast_grass,37.6582,59.9378,Middle East,Grass,rural/other,train,ASCENDING,1.264,0.0,9.8,28.8,31.7,0.0,29.8,0.0,0.0,0.0,0.0,0.0,31.7,0.0,ASC,122,8,11
+new164_northamerica_grass,33.6247,-81.7805,North America,Grass,rural/other,train,ASCENDING,1.205,75.5,0.0,20.0,1.2,2.4,0.3,0.0,0.6,0.0,0.0,0.0,75.5,0.0,ASC,56,2,2
+new165_seasia_grass,23.6085,99.9847,SE Asia,Grass,rural/other,train,BOTH,1.097,61.8,0.0,27.2,10.1,0.5,0.4,0.0,0.0,0.0,0.0,0.0,61.8,0.0,ASC,28,0,2
+new166_southamerica_grass,9.8104,-66.0959,South America,Grass,rural/other,train,ASCENDING,1.02,51.8,15.3,30.1,2.0,0.0,0.0,0.0,0.5,0.2,0.0,0.0,51.8,0.2,ASC,77,3,6
+new167_africa_grass,8.5348,18.229,Africa,Grass,rural/other,train,DESCENDING,1.016,1.1,34.3,52.0,12.5,0.0,0.0,0.0,0.0,0.1,0.0,0.0,52.0,0.1,DESC,30,2,2
+new168_australianz_grass,-24.6535,121.2523,Australia/NZ,Grass,rural/other,train,DESCENDING,1.105,0.1,44.1,55.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.8,0.0,DESC,60,4,4
+new169_centralamerica_grass,21.2819,-89.0299,Central America,Grass,rural/other,train,ASCENDING,1.078,57.6,3.7,37.3,0.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,57.6,0.0,ASC,59,4,4
+new170_eastasia_grass,49.9157,101.3995,East Asia,Grass,rural/other,train,DESCENDING,1.551,56.9,0.0,43.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.9,0.0,DESC,52,3,4
+new171_europe_grass,40.2543,0.0606,Europe,Grass,rural/other,train,DESCENDING,1.311,28.1,35.8,30.5,4.3,1.1,0.2,0.0,0.0,0.0,0.0,0.0,35.8,0.0,DESC,119,8,13
+new172_middleeast_grass,33.8403,35.6608,Middle East,Grass,rural/other,train,ASCENDING,1.206,69.8,10.0,9.2,0.0,10.8,0.2,0.0,0.0,0.0,0.0,0.0,69.8,0.0,ASC,119,9,18
+new173_northamerica_grass,27.1389,-103.7982,North America,Grass,rural/other,train,DESCENDING,1.129,0.0,76.9,0.3,0.0,0.0,22.8,0.0,0.0,0.0,0.0,0.0,76.9,0.0,DESC,61,4,6
+new174_seasia_grass,2.4173,99.9487,SE Asia,Grass,rural/other,train,ASCENDING,1.008,63.1,0.0,34.7,2.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,63.1,0.0,ASC,57,4,5
+new175_southamerica_grass,4.8697,-74.6883,South America,Grass,rural/other,train,BOTH,1.01,79.5,0.0,20.0,0.0,0.1,0.0,0.0,0.4,0.0,0.0,0.0,79.5,0.0,DESC,28,1,3
+new176_africa_grass,-1.5668,37.1161,Africa,Grass,rural/other,train,ASCENDING,1.007,0.1,7.4,79.1,12.0,1.3,0.1,0.0,0.0,0.0,0.0,0.0,79.1,0.0,ASC,31,2,2
+new177_eastasia_grass,46.6548,123.9652,East Asia,Grass,rural/other,train,DESCENDING,1.457,10.0,0.0,46.2,23.4,0.3,0.0,0.0,14.4,5.6,0.0,0.0,46.2,5.6,DESC,28,2,2
+new178_europe_grass,36.6565,-5.226,Europe,Grass,rural/other,train,DESCENDING,1.249,35.9,21.4,41.7,0.3,0.4,0.2,0.0,0.0,0.0,0.0,0.0,41.7,0.0,DESC,118,7,9
+new179_middleeast_grass,13.2464,43.9657,Middle East,Grass,rural/other,train,ASCENDING,1.034,2.2,56.9,26.5,11.1,0.2,3.1,0.0,0.0,0.0,0.0,0.0,56.9,0.0,ASC,60,4,6
+new180_northamerica_grass,28.3336,-99.594,North America,Grass,rural/other,train,ASCENDING,1.141,5.2,80.7,6.3,2.3,0.8,4.5,0.0,0.2,0.0,0.0,0.0,80.7,0.0,ASC,31,2,4
+new181_seasia_grass,-2.8334,110.2973,SE Asia,Grass,rural/other,train,DESCENDING,1.009,48.6,10.3,33.3,0.0,0.0,0.0,0.0,7.4,0.3,0.0,0.0,48.6,0.3,DESC,48,2,2
+new182_southamerica_grass,-5.0388,-39.8336,South America,Grass,rural/other,train,DESCENDING,1.011,0.4,82.1,16.4,0.7,0.0,0.0,0.0,0.3,0.0,0.0,0.0,82.1,0.0,DESC,30,2,2
+new183_africa_grass,-7.3385,20.7622,Africa,Grass,rural/other,train,DESCENDING,1.016,21.3,52.1,26.3,0.0,0.2,0.1,0.0,0.0,0.0,0.0,0.0,52.1,0.0,DESC,58,4,6
+new184_eastasia_grass,42.7202,119.4916,East Asia,Grass,rural/other,train,DESCENDING,1.362,0.6,0.0,32.2,65.8,1.3,0.1,0.0,0.0,0.0,0.0,0.0,65.8,0.0,DESC,69,4,4
+new185_europe_grass,56.123,27.1403,Europe,Grass,rural/other,train,ASCENDING,1.791,58.4,0.0,22.1,9.3,0.1,0.0,0.0,9.7,0.4,0.0,0.0,58.4,0.4,ASC,166,10,13
+new186_africa_tree,-16.663,25.3931,Africa,Tree,rural/other,train,ASCENDING,1.05,46.3,42.5,10.9,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.3,0.0,ASC,29,2,2
+new187_australianz_tree,-30.7665,151.6602,Australia/NZ,Tree,rural/other,train,ASCENDING,1.168,26.5,0.0,73.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,73.0,0.0,ASC,31,2,3
+new188_centralamerica_tree,17.1496,-91.5945,Central America,Tree,rural/other,train,DESCENDING,1.053,80.5,0.1,16.7,0.0,0.4,0.0,0.0,2.2,0.0,0.0,0.0,80.5,0.0,DESC,146,10,14
+new189_centralasia_tree,49.8348,84.2327,Central Asia,Tree,rural/other,train,DESCENDING,1.548,39.7,0.0,44.3,11.7,0.5,0.5,0.0,3.2,0.0,0.0,0.0,44.3,0.0,DESC,36,2,4
+new190_eastasia_tree,49.7899,126.1167,East Asia,Tree,rural/other,train,DESCENDING,1.547,68.5,0.0,24.1,7.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68.5,0.0,DESC,57,4,4
+new191_europe_tree,61.6971,10.0139,Europe,Tree,rural/other,train,ASCENDING,2.103,43.1,0.0,39.5,0.0,0.0,0.1,0.0,1.8,0.2,0.0,15.2,43.1,15.4,ASC,118,8,17
+new192_middleeast_tree,36.3511,51.817,Middle East,Tree,rural/other,train,ASCENDING,1.245,41.8,0.0,53.4,1.3,0.5,3.0,0.0,0.0,0.0,0.0,0.0,53.4,0.0,ASC,61,4,6
+new193_northamerica_tree,51.1059,-121.1042,North America,Tree,rural/other,train,DESCENDING,1.591,77.1,0.0,22.6,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,77.1,0.0,DESC,67,5,9
+new194_seasia_tree,22.3284,110.6207,SE Asia,Tree,rural/other,train,ASCENDING,1.087,84.3,0.0,5.5,6.2,3.9,0.0,0.0,0.0,0.0,0.0,0.0,84.3,0.0,ASC,30,2,2
+new195_southamerica_tree,-1.6701,-78.3893,South America,Tree,rural/other,train,ASCENDING,1.006,30.2,12.6,32.2,0.1,0.0,6.0,16.5,2.3,0.0,0.0,0.0,32.2,16.5,ASC,81,4,6
+new196_africa_tree,-1.6342,13.688,Africa,Tree,rural/other,train,DESCENDING,1.007,78.5,7.9,12.5,0.0,0.4,0.5,0.0,0.1,0.0,0.0,0.0,78.5,0.0,DESC,59,4,4
+new197_australianz_tree,-33.0932,145.4394,Australia/NZ,Tree,rural/other,train,DESCENDING,1.197,73.2,0.0,26.4,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,73.2,0.0,DESC,59,3,3
+new198_centralamerica_tree,21.9332,-84.161,Central America,Tree,rural/other,train,DESCENDING,1.082,32.1,0.0,13.0,19.8,0.3,0.0,0.0,34.4,0.4,0.0,0.0,34.4,0.4,DESC,57,3,3
+new199_centralasia_tree,45.1501,79.7321,Central Asia,Tree,rural/other,train,ASCENDING,1.419,29.1,0.0,69.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,1.8,69.0,1.8,ASC,30,2,4
+new200_eastasia_tree,32.5692,103.3938,East Asia,Tree,rural/other,train,DESCENDING,1.19,64.6,0.0,34.1,0.7,0.0,0.1,0.0,0.1,0.0,0.0,0.3,64.6,0.3,DESC,82,6,8
+new201_europe_tree,47.4678,19.5675,Europe,Tree,rural/other,train,DESCENDING,1.479,37.6,0.0,17.3,37.2,7.1,0.1,0.0,0.3,0.6,0.0,0.0,37.6,0.6,DESC,127,8,13
+new202_middleeast_tree,35.4483,36.2357,Middle East,Tree,rural/other,train,DESCENDING,1.229,48.3,10.1,5.2,33.9,2.5,0.0,0.0,0.0,0.0,0.0,0.0,48.3,0.0,DESC,120,9,14
+new203_northamerica_tree,39.6569,-116.7025,North America,Tree,rural/other,train,DESCENDING,1.301,23.8,32.1,42.7,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,42.7,0.0,DESC,40,2,4
+new204_seasia_tree,23.5411,101.8487,SE Asia,Tree,rural/other,train,ASCENDING,1.094,76.3,0.0,16.1,7.4,0.2,0.1,0.0,0.0,0.0,0.0,0.0,76.3,0.0,ASC,58,3,6
+new205_southamerica_tree,6.0644,-67.7039,South America,Tree,rural/other,train,ASCENDING,1.013,12.3,17.6,67.9,0.0,0.0,0.0,0.0,2.1,0.0,0.0,0.0,67.9,0.0,ASC,55,3,4
+new206_africa_tree,5.9027,7.4717,Africa,Tree,rural/other,train,ASCENDING,1.012,81.0,6.7,8.8,2.0,1.1,0.4,0.0,0.0,0.1,0.0,0.0,81.0,0.1,ASC,31,2,4
+new207_australianz_tree,-21.7519,146.6027,Australia/NZ,Tree,rural/other,train,DESCENDING,1.083,58.0,0.1,41.8,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,58.0,0.0,DESC,61,4,4
+new208_centralamerica_tree,24.152,-106.7581,Central America,Tree,rural/other,train,BOTH,1.101,75.3,7.6,11.6,2.4,0.0,0.0,0.0,3.1,0.0,0.0,0.0,75.3,0.0,ASC,29,1,4
+new209_centralasia_tree,49.9471,84.6145,Central Asia,Tree,rural/other,train,DESCENDING,1.552,83.4,0.0,16.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,83.4,0.1,DESC,36,2,4
+new210_eastasia_tree,24.8257,104.4448,East Asia,Tree,rural/other,train,ASCENDING,1.107,83.9,0.0,1.8,13.4,0.2,0.6,0.0,0.0,0.0,0.0,0.0,83.9,0.0,ASC,30,2,2
+new211_europe_tree,47.4318,26.6193,Europe,Tree,rural/other,train,ASCENDING,1.479,42.4,0.0,17.9,35.3,2.4,0.3,0.0,1.6,0.0,0.0,0.0,42.4,0.0,ASC,148,11,20
+new212_middleeast_tree,13.2689,37.17,Middle East,Tree,rural/other,train,DESCENDING,1.033,26.9,15.1,23.5,34.2,0.1,0.0,0.0,0.0,0.0,0.0,0.0,34.2,0.0,DESC,58,4,4
+new213_northamerica_tree,51.5461,-78.8025,North America,Tree,rural/other,train,ASCENDING,1.606,46.4,9.5,4.2,0.0,0.0,0.0,0.0,35.2,4.7,0.0,0.0,46.4,4.7,ASC,51,2,2
+new214_seasia_tree,18.4926,97.1145,SE Asia,Tree,rural/other,train,BOTH,1.06,87.1,0.0,10.8,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,87.1,0.0,DESC,29,1,3
+new215_southamerica_tree,-25.6416,-52.4325,South America,Tree,rural/other,train,DESCENDING,1.114,23.9,0.0,41.1,15.5,0.0,0.0,0.0,19.5,0.0,0.0,0.0,41.1,0.0,DESC,30,2,2
+new216_africa_tree,8.7369,32.1933,Africa,Tree,rural/other,train,DESCENDING,1.019,49.8,0.1,35.4,0.0,0.0,0.0,0.0,0.0,14.7,0.0,0.0,49.8,14.7,DESC,50,2,2
+new217_australianz_tree,-13.0832,132.4677,Australia/NZ,Tree,rural/other,train,DESCENDING,1.032,81.7,0.6,17.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81.7,0.0,DESC,60,5,5
+new218_centralamerica_tree,11.1399,-85.6746,Central America,Tree,rural/other,train,DESCENDING,1.026,88.9,0.0,11.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,88.9,0.0,DESC,30,2,3
+new219_centralasia_tree,43.3535,86.7076,Central Asia,Tree,rural/other,train,ASCENDING,1.377,21.1,0.0,61.5,0.0,0.0,14.2,0.3,0.2,0.0,0.0,2.7,61.5,3.0,ASC,60,4,7
+new220_eastasia_tree,25.2704,107.6338,East Asia,Tree,rural/other,train,ASCENDING,1.109,68.6,0.0,27.3,3.3,0.7,0.1,0.0,0.0,0.0,0.0,0.0,68.6,0.0,ASC,58,4,4
+new221_europe_tree,58.7237,15.2151,Europe,Tree,rural/other,train,ASCENDING,1.922,83.5,0.0,10.5,2.2,0.1,0.0,0.0,3.0,0.6,0.0,0.0,83.5,0.6,ASC,102,4,8
+new222_middleeast_tree,37.6447,30.9177,Middle East,Tree,rural/other,train,ASCENDING,1.265,75.4,2.6,11.2,2.4,0.1,0.0,0.0,8.2,0.1,0.0,0.0,75.4,0.1,ASC,119,8,12
+new223_northamerica_tree,39.2572,-115.072,North America,Tree,rural/other,train,ASCENDING,1.293,58.2,20.7,5.9,0.0,0.0,11.6,0.0,3.5,0.0,0.0,0.0,58.2,0.0,ASC,60,4,4
+new224_southamerica_tree,-22.4257,-44.4734,South America,Tree,rural/other,train,DESCENDING,1.088,57.5,0.0,34.4,0.1,6.8,0.1,0.0,1.2,0.0,0.0,0.0,57.5,0.0,DESC,56,3,3
+new225_africa_tree,6.9897,10.4181,Africa,Tree,rural/other,train,ASCENDING,1.014,77.0,3.4,18.8,0.6,0.3,0.0,0.0,0.0,0.0,0.0,0.0,77.0,0.0,ASC,61,5,5
+new226_australianz_tree,-31.9837,145.0486,Australia/NZ,Tree,rural/other,train,DESCENDING,1.182,55.7,0.3,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.7,0.0,DESC,62,4,4
+new227_eastasia_tree,40.142,124.4233,East Asia,Tree,town,train,ASCENDING,1.31,15.8,1.6,3.7,36.8,30.4,0.6,0.0,10.9,0.1,0.0,0.0,36.8,0.1,ASC,31,2,4
+new228_europe_tree,45.8418,6.1422,Europe,Tree,rural/other,train,ASCENDING,1.435,61.1,0.0,15.2,0.9,6.4,0.0,0.0,16.5,0.0,0.0,0.0,61.1,0.0,ASC,117,7,12
+new229_middleeast_tree,32.5827,35.5799,Middle East,Tree,rural/other,train,DESCENDING,1.189,27.5,0.7,42.3,22.9,4.4,1.6,0.0,0.7,0.0,0.0,0.0,42.3,0.0,DESC,120,9,15
+new230_northamerica_tree,37.2943,-107.4004,North America,Tree,rural/other,train,DESCENDING,1.259,89.5,0.4,9.9,0.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,89.5,0.0,DESC,61,5,7
+new231_southamerica_tree,-14.0803,-55.5496,South America,Tree,rural/other,train,DESCENDING,1.037,82.8,6.4,3.1,7.4,0.0,0.0,0.0,0.0,0.2,0.0,0.0,82.8,0.2,DESC,29,2,2
+new232_africa_tree,5.1347,29.678,Africa,Tree,rural/other,train,DESCENDING,1.009,67.7,30.6,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.7,0.0,DESC,110,7,7
+new233_australianz_tree,-38.3842,174.8188,Australia/NZ,Tree,rural/other,train,ASCENDING,1.278,69.5,0.1,30.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.5,0.0,ASC,89,6,11
+new234_eastasia_tree,35.4932,136.6,East Asia,Tree,town,train,DESCENDING,1.231,49.4,0.0,3.4,24.4,20.9,0.8,0.0,1.0,0.0,0.0,0.0,49.4,0.0,DESC,88,5,10
+new235_europe_tree,36.1804,7.849,Europe,Tree,rural/other,train,DESCENDING,1.242,22.1,3.9,28.1,45.8,0.1,0.0,0.0,0.0,0.0,0.0,0.0,45.8,0.0,DESC,88,5,10
+new236_middleeast_tree,40.2049,30.0194,Middle East,Tree,rural/other,train,ASCENDING,1.31,64.9,0.9,15.5,9.5,6.0,3.0,0.0,0.3,0.0,0.0,0.0,64.9,0.0,ASC,208,14,19
+new237_northamerica_tree,53.6437,-103.87,North America,Tree,rural/other,train,ASCENDING,1.685,47.1,18.7,22.5,10.2,0.0,0.0,0.0,0.1,1.3,0.0,0.1,47.1,1.4,ASC,60,4,4
+new238_southamerica_tree,-1.468,-48.1835,South America,Tree,rural/other,train,DESCENDING,1.005,75.6,0.0,13.1,0.0,0.0,0.0,0.0,10.9,0.3,0.0,0.0,75.6,0.3,DESC,35,2,2
+new239_africa_tree,-8.7219,27.3244,Africa,Tree,rural/other,train,DESCENDING,1.019,8.0,14.0,76.8,1.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,76.8,0.0,DESC,29,2,2
+new240_australianz_tree,-37.8273,146.3512,Australia/NZ,Tree,rural/other,train,DESCENDING,1.269,89.9,0.0,0.3,0.0,0.0,0.1,0.0,9.6,0.0,0.0,0.0,89.9,0.0,DESC,51,2,2
+new241_eastasia_tree,28.958,120.2057,East Asia,Tree,rural/other,train,ASCENDING,1.146,69.8,0.0,2.1,15.9,10.9,0.5,0.0,0.9,0.0,0.0,0.0,69.8,0.0,ASC,30,2,2
+new242_europe_tree,49.6013,13.953,Europe,Tree,rural/other,train,ASCENDING,1.542,26.3,0.0,21.9,48.5,2.4,0.1,0.0,0.8,0.0,0.0,0.0,48.5,0.0,ASC,118,8,17
+new243_middleeast_tree,41.7904,42.9102,Middle East,Tree,rural/other,train,DESCENDING,1.342,69.7,0.0,30.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.7,0.0,DESC,120,9,12
+new244_northamerica_tree,35.4663,-85.7555,North America,Tree,rural/other,train,ASCENDING,1.231,89.7,0.0,9.4,0.6,0.2,0.0,0.0,0.1,0.0,0.0,0.0,89.7,0.0,ASC,58,3,3
+new245_southamerica_tree,-23.6474,-62.5116,South America,Tree,rural/other,train,ASCENDING,1.097,78.1,17.3,4.5,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,78.1,0.0,ASC,53,2,5
+new246_africa_tree,-12.3511,37.0487,Africa,Tree,rural/other,train,DESCENDING,1.03,55.5,35.0,9.4,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.5,0.0,DESC,31,2,4
+new247_eastasia_tree,30.6064,105.2218,East Asia,Tree,rural/other,train,BOTH,1.166,59.7,0.0,1.5,26.2,9.0,2.6,0.0,1.1,0.0,0.0,0.0,59.7,0.0,ASC,28,1,2
+new248_europe_tree,48.2403,28.7707,Europe,Tree,rural/other,train,ASCENDING,1.501,33.9,0.0,6.6,59.2,0.2,0.1,0.0,0.0,0.0,0.0,0.0,59.2,0.0,ASC,119,8,18
+new249_middleeast_tree,40.6451,36.3929,Middle East,Tree,rural/other,train,ASCENDING,1.319,59.7,0.0,14.0,25.6,0.7,0.0,0.0,0.1,0.0,0.0,0.0,59.7,0.0,ASC,148,11,17
+new250_northamerica_tree,40.6181,-75.627,North America,Tree,rural/other,train,ASCENDING,1.32,47.3,0.0,24.3,19.2,8.4,0.6,0.0,0.3,0.0,0.0,0.0,47.3,0.0,ASC,29,2,2
+new251_africa_tree,-8.9689,23.3404,Africa,Tree,rural/other,train,DESCENDING,1.018,53.8,27.8,17.8,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,53.8,0.5,DESC,31,2,2
+new252_eastasia_tree,35.9064,119.8419,East Asia,Tree,rural/other,train,ASCENDING,1.236,39.4,0.0,11.6,42.9,3.5,0.1,0.0,2.5,0.0,0.0,0.0,42.9,0.0,ASC,108,6,9
+new253_europe_tree,41.3188,-8.6351,Europe,Tree,rural/other,train,ASCENDING,1.334,48.5,0.1,8.8,29.9,11.9,0.4,0.0,0.4,0.0,0.0,0.0,48.5,0.0,ASC,143,9,19
+new254_middleeast_tree,33.5888,35.7596,Middle East,Tree,rural/other,train,ASCENDING,1.203,8.2,2.1,70.3,13.8,4.4,0.6,0.0,0.6,0.0,0.0,0.0,70.3,0.0,ASC,148,11,20
+new255_northamerica_tree,33.6562,-79.5077,North America,Tree,rural/other,train,ASCENDING,1.205,82.5,0.0,8.0,9.4,0.1,0.0,0.0,0.1,0.0,0.0,0.0,82.5,0.0,ASC,88,5,5
+new256_africa_crop,10.3673,38.742,Africa,Crop,rural/other,train,DESCENDING,1.024,0.2,53.2,11.7,33.3,0.1,1.6,0.0,0.1,0.0,0.0,0.0,53.2,0.0,DESC,59,4,4
+new257_australianz_crop,-26.5893,148.5386,Australia/NZ,Crop,rural/other,train,BOTH,1.123,1.5,0.0,66.9,31.3,0.2,0.0,0.0,0.1,0.0,0.0,0.0,66.9,0.0,ASC,30,1,3
+new258_centralamerica_crop,22.8854,-98.5026,Central America,Crop,rural/other,train,DESCENDING,1.091,1.7,23.7,37.5,34.3,0.8,1.2,0.0,1.0,0.0,0.0,0.0,37.5,0.0,DESC,60,4,6
+new259_centralasia_crop,41.3637,71.7506,Central Asia,Crop,rural/other,train,DESCENDING,1.333,6.6,0.0,23.3,53.7,7.4,8.9,0.0,0.0,0.0,0.0,0.0,53.7,0.0,DESC,90,6,12
+new260_eastasia_crop,23.7208,104.0361,East Asia,Crop,rural/other,train,ASCENDING,1.098,14.8,0.0,36.9,44.5,1.4,0.3,0.0,2.1,0.0,0.0,0.0,44.5,0.0,ASC,61,4,4
+new261_europe_crop,49.2599,29.5028,Europe,Crop,rural/other,train,ASCENDING,1.531,14.5,0.0,9.9,71.3,0.4,0.0,0.0,3.3,0.6,0.0,0.0,71.3,0.6,ASC,118,7,15
+new262_middleeast_crop,26.5999,31.542,Middle East,Crop,rural/other,train,ASCENDING,1.123,2.6,0.3,0.1,46.2,7.3,43.3,0.0,0.2,0.0,0.0,0.0,46.2,0.0,ASC,59,4,4
+new263_northamerica_crop,37.5234,-87.2512,North America,Crop,rural/other,train,ASCENDING,1.264,17.2,0.0,7.2,73.2,0.6,0.0,0.0,1.7,0.0,0.0,0.0,73.2,0.0,ASC,31,2,2
+new264_russiaboreal_crop,55.072,48.2597,Russia boreal,Crop,rural/other,train,DESCENDING,1.743,10.2,0.0,14.8,73.6,0.7,0.0,0.0,0.6,0.1,0.0,0.0,73.6,0.1,DESC,60,4,4
+new265_seasia_crop,9.7834,105.0377,SE Asia,Crop,rural/other,train,DESCENDING,1.022,9.7,0.0,0.9,57.5,4.6,0.0,0.0,25.0,2.3,0.0,0.0,57.5,2.3,DESC,61,5,7
+new266_southamerica_crop,-17.0807,-48.2059,South America,Crop,rural/other,train,DESCENDING,1.05,29.4,0.6,40.7,29.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.7,0.0,DESC,30,2,2
+new267_africa_crop,-10.1277,31.5016,Africa,Crop,rural/other,train,DESCENDING,1.022,41.6,37.6,9.7,9.9,0.0,0.0,0.0,0.0,1.1,0.0,0.0,41.6,1.1,DESC,56,2,5
+new268_australianz_crop,-33.3402,117.4659,Australia/NZ,Crop,rural/other,train,DESCENDING,1.201,2.4,8.4,28.2,53.3,0.1,5.4,0.0,2.1,0.0,0.0,0.0,53.3,0.0,DESC,30,2,3
+new269_centralamerica_crop,24.6236,-107.5396,Central America,Crop,rural/other,train,BOTH,1.104,4.9,1.5,15.7,58.8,7.6,9.8,0.0,1.3,0.4,0.0,0.0,58.8,0.4,ASC,29,1,4
+new270_centralasia_crop,39.5895,66.6751,Central Asia,Crop,rural/other,train,DESCENDING,1.299,0.6,0.0,26.0,69.0,0.8,3.6,0.0,0.0,0.0,0.0,0.0,69.0,0.0,DESC,31,2,5
+new271_eastasia_crop,46.0035,121.8676,East Asia,Crop,rural/other,train,DESCENDING,1.44,6.2,0.0,22.5,68.9,2.0,0.4,0.0,0.0,0.0,0.0,0.0,68.9,0.0,DESC,29,2,2
+new272_europe_crop,61.1536,22.8149,Europe,Crop,rural/other,train,ASCENDING,2.066,71.2,0.0,4.7,23.4,0.4,0.1,0.0,0.1,0.1,0.0,0.0,71.2,0.1,ASC,135,7,7
+new273_middleeast_crop,32.7668,36.1998,Middle East,Crop,rural/other,train,ASCENDING,1.191,1.6,0.0,0.7,89.2,8.4,0.1,0.0,0.0,0.0,0.0,0.0,89.2,0.0,ASC,119,9,16
+new274_northamerica_crop,45.487,-72.6626,North America,Crop,rural/other,train,DESCENDING,1.426,60.7,0.0,10.6,25.4,1.0,0.1,0.0,2.0,0.1,0.0,0.0,60.7,0.1,DESC,29,2,3
+new275_russiaboreal_crop,50.9981,61.3885,Russia boreal,Crop,rural/other,train,DESCENDING,1.587,0.0,0.0,51.0,49.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,51.0,0.1,DESC,47,3,3
+new276_seasia_crop,20.3207,97.5817,SE Asia,Crop,rural/other,train,BOTH,1.072,29.2,0.0,41.3,28.9,0.5,0.0,0.0,0.1,0.0,0.0,0.0,41.3,0.0,DESC,28,1,3
+new277_southamerica_crop,-16.636,-49.5264,South America,Crop,rural/other,train,DESCENDING,1.05,19.1,0.6,15.8,49.5,14.4,0.1,0.0,0.5,0.0,0.0,0.0,49.5,0.0,DESC,58,4,4
+new278_africa_crop,11.2612,8.7787,Africa,Crop,rural/other,train,ASCENDING,1.027,0.0,1.5,11.4,85.4,1.6,0.0,0.0,0.0,0.0,0.0,0.0,85.4,0.0,ASC,30,2,2
+new279_australianz_crop,-28.9564,148.7317,Australia/NZ,Crop,rural/other,train,DESCENDING,1.147,12.3,0.0,53.2,34.2,0.0,0.2,0.0,0.1,0.0,0.0,0.0,53.2,0.0,DESC,58,3,5
+new280_centralamerica_crop,21.5289,-103.5287,Central America,Crop,rural/other,train,ASCENDING,1.08,10.3,22.4,51.5,14.2,1.1,0.0,0.0,0.5,0.0,0.0,0.0,51.5,0.0,ASC,61,4,6
+new281_centralasia_crop,44.948,85.3376,Central Asia,Crop,rural/other,train,ASCENDING,1.413,0.0,2.6,15.2,58.3,1.5,22.4,0.0,0.0,0.0,0.0,0.0,58.3,0.0,ASC,90,7,11
+new282_eastasia_crop,28.4055,117.394,East Asia,Crop,rural/other,train,ASCENDING,1.142,32.5,0.0,5.7,42.3,11.3,2.7,0.0,5.6,0.0,0.0,0.0,42.3,0.0,ASC,87,5,5
+new283_europe_crop,40.5238,21.7234,Europe,Crop,rural/other,train,ASCENDING,1.318,10.4,0.1,12.3,66.3,9.0,1.6,0.0,0.3,0.0,0.0,0.0,66.3,0.0,ASC,120,9,12
+new284_middleeast_crop,38.269,37.3227,Middle East,Crop,rural/other,train,ASCENDING,1.276,1.6,0.0,9.3,85.7,0.9,2.5,0.0,0.0,0.0,0.0,0.0,85.7,0.0,ASC,119,9,13
+new285_northamerica_crop,31.2981,-91.873,North America,Crop,rural/other,train,ASCENDING,1.175,56.2,0.0,7.3,30.7,0.0,0.0,0.0,5.6,0.3,0.0,0.0,56.2,0.3,ASC,30,2,2
+new286_russiaboreal_crop,54.1198,91.7426,Russia boreal,Crop,rural/other,train,DESCENDING,1.704,14.4,0.0,38.3,47.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.3,0.0,DESC,52,3,3
+new287_seasia_crop,17.5539,95.1338,SE Asia,Crop,rural/other,train,ASCENDING,1.054,7.0,0.0,0.7,85.8,0.1,0.1,0.0,6.3,0.0,0.0,0.0,85.8,0.0,ASC,58,4,8
+new288_southamerica_crop,-18.8593,-66.7157,South America,Crop,rural/other,train,DESCENDING,1.062,0.0,0.0,76.4,7.1,0.7,13.0,0.0,2.8,0.0,0.0,0.0,76.4,0.0,DESC,59,4,8
+new289_africa_crop,34.8464,48.5292,Africa,Crop,town,train,ASCENDING,1.221,2.0,0.0,6.8,52.7,28.6,9.8,0.0,0.2,0.0,0.0,0.0,52.7,0.0,ASC,58,4,7
+new290_australianz_crop,-32.37,147.8694,Australia/NZ,Crop,rural/other,train,DESCENDING,1.188,4.7,0.0,32.6,62.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62.8,0.0,DESC,59,4,4
+new291_centralamerica_crop,20.9136,-100.5822,Central America,Crop,rural/other,train,ASCENDING,1.076,5.5,31.7,7.6,51.7,2.1,1.3,0.0,0.1,0.0,0.0,0.0,51.7,0.0,ASC,59,4,7
+new292_centralasia_crop,47.8271,87.8709,Central Asia,Crop,rural/other,train,DESCENDING,1.49,0.9,0.2,40.9,28.3,0.1,28.9,0.0,0.1,0.6,0.0,0.0,40.9,0.6,DESC,60,4,8
+new293_eastasia_crop,43.9015,121.2433,East Asia,Crop,rural/other,train,DESCENDING,1.389,0.0,0.0,37.9,61.9,0.1,0.0,0.0,0.0,0.0,0.0,0.0,61.9,0.0,DESC,29,2,2
+new294_europe_crop,41.6736,15.04,Europe,Crop,rural/other,train,ASCENDING,1.341,14.8,2.8,10.6,70.8,1.0,0.1,0.0,0.0,0.0,0.0,0.0,70.8,0.0,ASC,118,8,17
+new295_middleeast_crop,35.9693,48.3046,Middle East,Crop,rural/other,train,DESCENDING,1.237,0.0,0.0,9.2,51.4,0.0,39.4,0.0,0.0,0.0,0.0,0.0,51.4,0.0,DESC,99,6,10
+new296_northamerica_crop,48.8422,-102.0464,North America,Crop,rural/other,train,ASCENDING,1.518,0.6,0.0,20.4,74.7,0.1,0.0,0.0,4.1,0.0,0.0,0.0,74.7,0.0,ASC,57,3,3
+new297_russiaboreal_crop,53.0643,46.6202,Russia boreal,Crop,rural/other,train,DESCENDING,1.662,35.9,0.0,27.4,24.0,10.0,0.5,0.0,2.0,0.2,0.0,0.0,35.9,0.2,DESC,61,4,4
+new298_seasia_crop,13.6866,102.3832,SE Asia,Crop,rural/other,train,DESCENDING,1.034,14.2,0.0,7.5,76.4,1.0,0.7,0.0,0.2,0.0,0.0,0.0,76.4,0.0,DESC,60,4,9
+new299_southamerica_crop,-17.6781,-61.6851,South America,Crop,rural/other,train,DESCENDING,1.056,19.9,2.6,27.7,49.4,0.2,0.1,0.0,0.0,0.0,0.0,0.0,49.4,0.0,DESC,60,4,5
+new300_africa_crop,32.4614,-6.3579,Africa,Crop,rural/other,train,DESCENDING,1.188,14.2,1.0,5.2,77.1,2.3,0.2,0.0,0.0,0.0,0.0,0.0,77.1,0.0,DESC,148,9,16
+new301_australianz_crop,-33.6232,138.4011,Australia/NZ,Crop,rural/other,train,DESCENDING,1.203,1.5,0.0,9.2,89.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,89.1,0.0,DESC,31,2,2
+new302_centralamerica_crop,21.9466,-105.4106,Central America,Crop,rural/other,train,ASCENDING,1.084,10.7,0.1,21.0,44.5,0.4,1.9,0.0,7.2,1.2,12.9,0.0,44.5,1.2,ASC,31,2,4
+new303_centralasia_crop,44.4315,85.9395,Central Asia,Crop,rural/other,train,ASCENDING,1.401,0.6,16.8,7.3,50.0,2.0,0.7,0.0,18.2,4.4,0.0,0.0,50.0,4.4,ASC,30,2,4
+new304_eastasia_crop,36.5038,116.2217,East Asia,Crop,rural/other,train,ASCENDING,1.247,4.9,0.0,1.6,80.3,12.6,0.6,0.0,0.0,0.0,0.0,0.0,80.3,0.0,ASC,29,2,2
+new305_europe_crop,49.0039,0.8511,Europe,Crop,rural/other,train,ASCENDING,1.523,33.9,0.0,11.7,53.8,0.6,0.0,0.0,0.0,0.0,0.0,0.0,53.8,0.0,ASC,146,11,14
+new306_middleeast_crop,36.5487,37.7494,Middle East,Crop,rural/other,train,ASCENDING,1.248,0.0,0.1,10.2,87.5,1.8,0.4,0.0,0.0,0.0,0.0,0.0,87.5,0.0,ASC,119,9,17
+new307_northamerica_crop,44.3865,-99.7153,North America,Crop,rural/other,train,ASCENDING,1.4,0.2,0.0,72.2,27.2,0.2,0.0,0.0,0.2,0.1,0.0,0.0,72.2,0.1,ASC,84,4,4
+new308_russiaboreal_crop,50.028,40.7408,Russia boreal,Crop,rural/other,train,ASCENDING,1.555,33.6,0.0,14.7,51.2,0.3,0.0,0.0,0.0,0.2,0.0,0.0,51.2,0.2,ASC,115,7,12
+new309_seasia_crop,20.2398,106.1426,SE Asia,Crop,rural/other,train,ASCENDING,1.072,4.6,0.0,4.0,66.8,16.3,0.7,0.0,7.6,0.0,0.0,0.0,66.8,0.0,ASC,30,2,4
+new310_southamerica_crop,-16.2452,-46.589,South America,Crop,rural/other,train,DESCENDING,1.048,12.6,18.8,17.5,50.6,0.1,0.0,0.0,0.4,0.0,0.0,0.0,50.6,0.0,DESC,29,2,2
+new311_africa_crop,13.2779,6.0927,Africa,Crop,rural/other,train,ASCENDING,1.032,0.0,0.9,52.1,45.9,0.4,0.7,0.0,0.0,0.0,0.0,0.0,52.1,0.0,ASC,30,2,2
+new312_australianz_crop,-32.2218,118.728,Australia/NZ,Crop,rural/other,train,DESCENDING,1.186,0.6,10.2,8.0,80.8,0.0,0.4,0.0,0.0,0.0,0.0,0.0,80.8,0.0,DESC,60,4,4
+new313_centralamerica_crop,22.0544,-101.3727,Central America,Crop,rural/other,train,ASCENDING,1.083,0.1,30.0,2.6,66.5,0.3,0.5,0.0,0.0,0.0,0.0,0.0,66.5,0.0,ASC,59,4,7
+new314_eastasia_crop,35.5965,105.114,East Asia,Crop,rural/other,train,ASCENDING,1.233,0.1,0.0,53.9,42.5,1.1,2.3,0.0,0.0,0.0,0.0,0.0,53.9,0.0,ASC,56,3,7
+new315_europe_crop,48.4065,-1.8349,Europe,Crop,rural/other,train,ASCENDING,1.506,37.3,0.0,21.9,38.7,1.7,0.0,0.0,0.4,0.0,0.0,0.0,38.7,0.0,ASC,151,11,19
+new316_middleeast_crop,39.0101,32.2113,Middle East,Crop,rural/other,train,ASCENDING,1.29,0.0,0.0,18.1,79.7,0.5,1.8,0.0,0.0,0.0,0.0,0.0,79.7,0.0,ASC,118,7,14
+new317_northamerica_crop,47.4273,-97.1686,North America,Crop,rural/other,train,ASCENDING,1.478,6.8,0.0,4.0,88.7,0.4,0.0,0.0,0.0,0.0,0.0,0.0,88.7,0.0,ASC,53,2,2
+new318_russiaboreal_crop,51.0341,72.4603,Russia boreal,Crop,rural/other,train,DESCENDING,1.588,0.3,0.0,53.7,45.3,0.0,0.0,0.0,0.0,0.7,0.0,0.0,53.7,0.7,DESC,52,3,3
+new319_seasia_crop,17.491,105.689,SE Asia,Crop,rural/other,train,DESCENDING,1.055,81.9,0.0,4.2,13.3,0.1,0.0,0.0,0.4,0.0,0.0,0.0,81.9,0.0,DESC,31,2,4
+new320_southamerica_crop,-13.191,-74.4233,South America,Crop,rural/other,train,DESCENDING,1.034,8.7,0.7,84.9,4.8,0.3,0.5,0.0,0.0,0.0,0.0,0.0,84.9,0.0,DESC,29,2,3
+new321_africa_crop,10.6952,37.2014,Africa,Crop,rural/other,train,DESCENDING,1.024,15.6,2.3,2.0,78.2,1.6,0.3,0.0,0.0,0.0,0.0,0.0,78.2,0.0,DESC,30,2,2
+new322_australianz_crop,-33.7804,118.207,Australia/NZ,Crop,rural/other,train,DESCENDING,1.207,3.4,3.4,19.9,72.9,0.1,0.3,0.0,0.0,0.0,0.0,0.0,72.9,0.0,DESC,60,4,4
+new323_centralamerica_crop,24.7584,-98.3139,Central America,Crop,rural/other,train,ASCENDING,1.107,29.6,40.9,7.6,21.3,0.1,0.5,0.0,0.0,0.0,0.0,0.0,40.9,0.0,ASC,61,5,9
+new324_eastasia_crop,34.9273,107.3014,East Asia,Crop,rural/other,train,ASCENDING,1.222,78.8,0.0,3.6,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,78.8,0.0,ASC,54,2,2
+new325_europe_crop,48.3032,26.6911,Europe,Crop,rural/other,train,DESCENDING,1.503,12.9,0.0,16.9,67.9,1.0,0.2,0.0,0.9,0.2,0.0,0.0,67.9,0.2,DESC,120,9,18
+new326_middleeast_crop,31.1094,52.073,Middle East,Crop,rural/other,train,ASCENDING,1.172,0.0,0.1,0.2,41.1,0.0,58.6,0.0,0.0,0.0,0.0,0.0,58.6,0.0,ASC,31,2,3
+new327_northamerica_crop,48.128,-100.5418,North America,Crop,rural/other,train,ASCENDING,1.498,0.5,0.0,61.3,36.3,0.2,0.0,0.0,1.7,0.1,0.0,0.0,61.3,0.1,ASC,57,3,3
+new328_russiaboreal_crop,52.5298,54.6916,Russia boreal,Crop,rural/other,train,DESCENDING,1.641,2.1,0.0,41.8,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,0.0,DESC,47,2,2
+new329_seasia_crop,16.3322,94.7969,SE Asia,Crop,rural/other,train,ASCENDING,1.048,49.8,0.2,4.4,39.0,0.0,0.0,0.0,6.2,0.0,0.4,0.0,49.8,0.0,ASC,147,11,15
+new330_southamerica_crop,-15.1942,-47.6175,South America,Crop,rural/other,train,DESCENDING,1.041,16.2,22.0,22.8,38.4,0.5,0.2,0.0,0.0,0.0,0.0,0.0,38.4,0.0,DESC,30,2,2
+new331_africa_crop,-5.3128,33.5498,Africa,Crop,rural/other,train,ASCENDING,1.011,25.0,36.5,10.0,27.8,0.6,0.1,0.0,0.0,0.0,0.0,0.0,36.5,0.0,ASC,60,4,8
+new332_australianz_crop,-32.5317,117.8611,Australia/NZ,Crop,rural/other,train,DESCENDING,1.19,6.3,1.5,6.5,85.7,0.1,0.0,0.0,0.0,0.0,0.0,0.0,85.7,0.0,DESC,30,2,2
+new333_centralamerica_crop,21.9646,-101.2335,Central America,Crop,rural/other,train,BOTH,1.083,0.1,37.1,0.8,59.2,0.3,1.4,0.0,1.1,0.0,0.0,0.0,59.2,0.0,ASC,29,1,4
+new334_eastasia_crop,43.6544,120.1563,East Asia,Crop,rural/other,train,DESCENDING,1.382,0.0,0.0,48.1,49.6,0.9,1.0,0.0,0.4,0.0,0.0,0.0,49.6,0.0,DESC,40,2,2
+new335_europe_crop,37.1237,14.1237,Europe,Crop,rural/other,train,ASCENDING,1.257,3.1,0.4,35.6,31.9,2.8,1.1,0.0,25.0,0.0,0.0,0.0,35.6,0.0,ASC,115,8,11
+new336_middleeast_crop,40.7169,35.526,Middle East,Crop,rural/other,train,ASCENDING,1.32,7.2,0.0,30.1,61.2,0.6,0.5,0.0,0.3,0.0,0.0,0.0,61.2,0.0,ASC,60,4,9
+new337_northamerica_crop,38.7496,-88.6481,North America,Crop,rural/other,train,ASCENDING,1.284,20.8,0.0,7.0,71.6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,71.6,0.0,ASC,59,4,4
+new338_russiaboreal_crop,50.6253,55.0958,Russia boreal,Crop,rural/other,train,DESCENDING,1.575,0.0,0.0,89.3,10.3,0.0,0.0,0.0,0.0,0.3,0.0,0.0,89.3,0.3,DESC,51,3,3
+new339_seasia_crop,16.1974,120.4752,SE Asia,Crop,rural/other,train,DESCENDING,1.046,53.3,0.0,5.0,34.1,3.9,3.3,0.0,0.4,0.0,0.0,0.0,53.3,0.0,DESC,59,4,6
+new340_southamerica_crop,-17.5837,-48.8976,South America,Crop,rural/other,train,DESCENDING,1.054,35.0,0.9,32.5,31.5,0.0,0.0,0.0,0.1,0.0,0.0,0.0,35.0,0.0,DESC,42,2,2
+new341_africa_builtup,10.5515,14.2495,Africa,Built-up,rural/other,train,ASCENDING,1.024,5.0,6.4,39.4,39.0,7.6,2.5,0.0,0.1,0.0,0.0,0.0,39.4,0.0,ASC,30,2,4
+new342_australianz_builtup,-16.8965,145.6954,Australia/NZ,Built-up,rural/other,train,DESCENDING,1.051,68.7,0.0,9.7,5.3,13.3,0.4,0.0,1.8,0.1,0.8,0.0,68.7,0.1,DESC,30,2,2
+new343_centralamerica_builtup,21.2909,-102.3159,Central America,Built-up,rural/other,train,ASCENDING,1.077,8.7,25.0,9.3,46.6,9.7,0.6,0.0,0.2,0.0,0.0,0.0,46.6,0.0,ASC,30,2,4
+new344_centralasia_builtup,40.3037,67.9507,Central Asia,Built-up,rural/other,train,DESCENDING,1.313,0.2,0.0,10.6,79.0,9.3,0.9,0.0,0.0,0.0,0.0,0.0,79.0,0.0,DESC,60,4,6
+new345_eastasia_builtup,43.331,142.4031,East Asia,Built-up,rural/other,train,ASCENDING,1.376,49.3,0.0,8.5,33.8,7.7,0.2,0.0,0.6,0.0,0.0,0.0,49.3,0.0,ASC,87,6,11
+new346_europe_builtup,48.9365,8.873,Europe,Built-up,rural/other,train,ASCENDING,1.522,40.7,0.0,18.3,29.6,11.3,0.1,0.0,0.1,0.0,0.0,0.0,40.7,0.0,ASC,109,5,12
+new347_middleeast_builtup,28.41,48.5292,Middle East,Built-up,rural/other,train,DESCENDING,1.14,0.0,0.0,0.0,0.1,15.1,22.8,0.0,62.0,0.0,0.0,0.0,62.0,0.0,DESC,59,4,6
+new348_northamerica_builtup,36.6296,-119.6714,North America,Built-up,rural/other,train,DESCENDING,1.248,15.3,0.0,26.4,41.9,12.5,3.8,0.0,0.0,0.0,0.0,0.0,41.9,0.0,DESC,85,6,11
+new349_russiaboreal_builtup,51.061,55.4372,Russia boreal,Built-up,rural/other,train,DESCENDING,1.59,1.1,0.0,46.8,51.0,0.5,0.0,0.0,0.4,0.2,0.0,0.0,51.0,0.2,DESC,80,5,5
+new350_seasia_builtup,21.5783,108.339,SE Asia,Built-up,rural/other,train,ASCENDING,1.079,12.6,0.0,2.4,0.9,17.2,5.5,0.0,61.3,0.0,0.0,0.0,61.3,0.0,ASC,85,5,5
+new351_southamerica_builtup,-33.4076,-71.1264,South America,Built-up,rural/other,train,ASCENDING,1.201,7.1,37.4,41.0,7.1,5.5,2.0,0.0,0.0,0.0,0.0,0.0,41.0,0.0,ASC,91,4,6
+new352_africa_builtup,12.1325,22.5948,Africa,Built-up,rural/other,train,DESCENDING,1.029,1.1,0.5,81.3,6.4,5.2,5.2,0.0,0.0,0.3,0.0,0.0,81.3,0.3,DESC,51,3,3
+new353_australianz_builtup,-33.0303,137.5432,Australia/NZ,Built-up,rural/other,train,DESCENDING,1.195,2.3,26.8,28.5,0.1,17.6,9.5,0.0,12.8,0.3,2.2,0.0,28.5,0.3,DESC,60,4,4
+new354_centralamerica_builtup,20.8282,-76.2468,Central America,Built-up,rural/other,train,DESCENDING,1.076,49.1,3.2,36.0,4.0,7.3,0.0,0.0,0.4,0.0,0.0,0.0,49.1,0.0,DESC,60,4,7
+new355_centralasia_builtup,42.81,75.4382,Central Asia,Built-up,rural/other,train,ASCENDING,1.365,0.4,0.0,35.6,56.5,3.1,4.3,0.0,0.0,0.0,0.0,0.0,56.5,0.0,ASC,59,4,6
+new356_eastasia_builtup,29.762,104.849,East Asia,Built-up,rural/other,train,ASCENDING,1.157,47.7,0.0,1.6,33.2,12.5,2.4,0.0,2.6,0.0,0.0,0.0,47.7,0.0,ASC,85,3,10
+new357_europe_builtup,60.8841,10.9437,Europe,Built-up,rural/other,train,ASCENDING,2.049,47.5,0.0,18.1,18.6,4.8,0.1,0.0,10.8,0.0,0.0,0.0,47.5,0.0,ASC,174,12,23
+new358_middleeast_builtup,28.3696,52.5446,Middle East,Built-up,rural/other,train,DESCENDING,1.141,1.4,7.6,15.4,7.7,0.5,67.4,0.0,0.0,0.0,0.0,0.0,67.4,0.0,DESC,58,4,6
+new359_northamerica_builtup,27.4353,-80.2848,North America,Built-up,rural/other,train,ASCENDING,1.132,7.2,0.0,4.0,0.0,10.4,0.5,0.0,71.2,1.2,5.5,0.0,71.2,1.2,ASC,59,4,4
+new360_russiaboreal_builtup,57.6726,46.6202,Russia boreal,Built-up,rural/other,train,DESCENDING,1.866,54.7,0.0,25.3,13.3,6.2,0.0,0.0,0.3,0.1,0.0,0.0,54.7,0.1,DESC,45,2,2
+new361_seasia_builtup,-7.8056,111.3304,SE Asia,Built-up,rural/other,train,BOTH,1.017,73.8,0.0,5.6,16.6,4.0,0.0,0.0,0.0,0.0,0.0,0.0,73.8,0.0,DESC,50,1,2
+new362_southamerica_builtup,-32.8147,-68.6426,South America,Built-up,rural/other,train,DESCENDING,1.194,0.8,26.9,6.8,40.5,1.4,23.3,0.0,0.2,0.0,0.0,0.0,40.5,0.0,DESC,87,6,6
+new363_africa_builtup,33.0588,6.1017,Africa,Built-up,rural/other,train,DESCENDING,1.195,12.5,0.1,0.0,2.4,5.4,79.5,0.0,0.0,0.0,0.0,0.0,79.5,0.0,DESC,61,4,4
+new364_australianz_builtup,-28.8621,153.0392,Australia/NZ,Built-up,rural/other,train,DESCENDING,1.147,18.5,0.0,64.1,10.1,5.1,0.1,0.0,1.0,1.2,0.0,0.0,64.1,1.2,DESC,56,3,3
+new365_centralamerica_builtup,16.0177,-91.6754,Central America,Built-up,rural/other,train,DESCENDING,1.047,64.2,12.3,21.3,1.2,0.9,0.0,0.0,0.1,0.0,0.0,0.0,64.2,0.0,DESC,117,8,12

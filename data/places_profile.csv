@@ -1,0 +1,46 @@
+name,lat,lon,landscape,region,type,split,Tree cover,Shrubland,Grassland,Cropland,Built-up,Bare/sparse,Snow/ice,Water,Wetland,Mangroves,Moss/lichen,dominant,dominant_%,top2
+Mannheim city,49.49,8.47,Temperate,Europe,city,train,26.6,0.0,8.0,5.8,53.4,0.2,0.0,5.9,0.0,0.0,0.0,Built-up,53.4,80.0
+Chicago,41.88,-87.63,Temperate,USA,city,train,3.7,0.0,3.2,0.1,53.1,1.0,0.0,38.8,0.0,0.0,0.0,Built-up,53.1,91.9
+Speyer town,49.32,8.43,Temperate,Europe,town,train,35.6,0.0,11.4,27.6,16.9,0.1,0.0,8.4,0.0,0.0,0.0,Tree cover,35.6,63.2
+Ames Iowa,42.03,-93.62,Temperate,USA,town,train,26.9,0.0,23.9,25.0,22.3,0.6,0.0,1.3,0.0,0.0,0.0,Tree cover,26.9,51.9
+Kraichgau farmland,49.22,8.9,Temperate,Europe,rural,train,31.5,0.0,9.6,48.7,10.1,0.1,0.0,0.0,0.0,0.0,0.0,Cropland,48.7,80.2
+Valencia city,39.47,-0.38,Mediterranean,Europe,city,train,9.0,0.2,16.9,14.2,54.5,2.9,0.0,2.2,0.0,0.0,0.0,Built-up,54.5,71.4
+Gandia town,38.97,-0.18,Mediterranean,Europe,town,train,40.6,11.3,14.8,1.4,16.0,1.3,0.0,14.0,0.8,0.0,0.0,Tree cover,40.6,56.6
+Albufera rice,39.3,-0.33,Mediterranean,Europe,rural,train,2.6,0.1,5.1,38.5,2.8,0.7,0.0,32.5,17.7,0.0,0.0,Cropland,38.5,71.0
+Sacramento rice,39.21,-122.01,Mediterranean,USA,rural,train,15.0,0.4,20.3,54.3,5.1,1.6,0.0,1.8,1.6,0.0,0.0,Cropland,54.3,74.6
+Innsbruck city,47.26,11.39,Alpine,Europe,city,train,57.6,0.0,16.3,4.6,18.5,1.7,0.0,1.3,0.0,0.0,0.0,Tree cover,57.6,76.1
+Kufstein town,47.58,12.17,Alpine,Europe,town,train,66.3,0.0,21.3,2.2,7.0,0.2,0.0,3.0,0.0,0.0,0.0,Tree cover,66.3,87.6
+Aspen,39.19,-106.82,Alpine,USA,town,train,79.7,0.0,15.2,0.1,3.9,1.0,0.0,0.1,0.0,0.0,0.1,Tree cover,79.7,94.9
+Zillertal valley,47.16,11.86,Alpine,Europe,rural,train,63.0,0.0,31.9,0.5,2.2,0.7,0.4,0.6,0.0,0.0,0.6,Tree cover,63.0,94.9
+Jonkoping,57.78,14.16,Nordic,Europe,city,train,39.0,0.0,15.7,6.6,13.6,0.3,0.0,24.7,0.0,0.0,0.0,Tree cover,39.0,63.7
+Tampere,61.5,23.76,Nordic,Europe,city,train,35.0,0.0,1.7,1.7,22.5,0.5,0.0,38.5,0.2,0.0,0.0,Water,38.5,73.5
+Vaxjo,56.88,14.81,Nordic,Europe,town,train,49.4,0.0,16.4,0.9,16.5,0.6,0.0,16.0,0.1,0.0,0.0,Tree cover,49.4,65.9
+Savonlinna lakes,61.87,28.88,Nordic,Europe,rural,train,45.8,0.0,2.7,2.6,5.8,0.1,0.0,42.5,0.5,0.0,0.0,Tree cover,45.8,88.3
+Dubai,25.2,55.3,Arid,Gulf,city,train,5.8,2.6,1.4,0.5,50.0,27.9,0.0,11.4,0.2,0.3,0.0,Built-up,50.0,77.9
+Riyadh,24.71,46.68,Arid,Gulf,city,train,2.1,0.1,0.1,0.5,80.7,16.5,0.0,0.0,0.0,0.0,0.0,Built-up,80.7,97.2
+Abu Dhabi,24.45,54.4,Arid,Gulf,town,train,7.8,2.9,1.0,0.4,38.7,21.1,0.0,23.3,0.0,4.8,0.0,Built-up,38.7,62.0
+Imperial Valley farms,32.85,-115.5,Arid,USA,rural,train,0.4,3.8,0.2,77.3,1.9,14.2,0.0,2.2,0.0,0.0,0.0,Cropland,77.3,91.5
+Ho Chi Minh City,10.78,106.7,Tropical,SE Asia,city,train,11.0,0.0,3.9,1.2,74.6,1.0,0.0,8.3,0.0,0.0,0.0,Built-up,74.6,85.6
+Can Tho,10.03,105.78,Tropical,SE Asia,town,train,32.9,0.0,3.7,6.1,39.7,0.9,0.0,16.6,0.0,0.0,0.0,Built-up,39.7,72.6
+Ca Mau,9.18,105.15,Tropical,SE Asia,town,train,21.8,0.5,7.2,27.7,20.0,2.5,0.0,18.2,2.2,0.0,0.0,Cropland,27.7,49.5
+Long Xuyen rice,10.38,105.42,Tropical,SE Asia,rural,train,18.0,0.0,2.5,47.5,21.4,0.7,0.0,9.6,0.2,0.0,0.0,Cropland,47.5,68.9
+Houston,29.76,-95.37,Subtropical,USA,city,train,27.7,0.0,5.5,0.4,64.4,1.5,0.0,0.4,0.0,0.0,0.0,Built-up,64.4,92.1
+Dallas,32.78,-96.8,Subtropical,USA,city,train,26.1,0.0,11.7,0.4,59.1,1.9,0.0,0.8,0.0,0.0,0.0,Built-up,59.1,85.2
+Lafayette Louisiana,30.22,-92.02,Subtropical,USA,town,train,44.2,0.0,22.2,1.7,29.7,1.0,0.0,0.9,0.3,0.0,0.0,Tree cover,44.2,73.9
+Mississippi Delta farmland,33.45,-90.5,Subtropical,USA,rural,train,20.2,0.0,7.9,62.4,1.7,0.1,0.0,7.7,0.1,0.0,0.0,Cropland,62.4,82.6
+Cremona Po plain,45.13,10.04,Temperate,Europe,rural,val,15.0,0.0,12.5,53.3,16.6,0.4,0.0,2.2,0.0,0.0,0.0,Cropland,53.3,69.9
+Santa Barbara,34.42,-119.7,Mediterranean,USA,town,val,36.1,1.2,5.2,0.0,22.6,0.6,0.0,34.4,0.0,0.0,0.0,Tree cover,36.1,70.5
+Grenoble,45.19,5.72,Alpine,Europe,city,val,48.9,0.0,9.4,0.9,38.5,0.2,0.0,2.2,0.0,0.0,0.0,Tree cover,48.9,87.4
+Brainerd lakes,46.36,-94.2,Nordic,USA,rural,val,52.7,0.0,23.4,4.5,11.2,0.7,0.0,5.9,1.7,0.0,0.0,Tree cover,52.7,76.1
+Al Kharj desert city,24.15,47.3,Arid,Gulf,city,val,1.8,0.5,0.1,2.0,45.7,49.8,0.0,0.0,0.0,0.0,0.0,Bare/sparse,49.8,95.5
+Battambang rice,13.03,103.2,Tropical,SE Asia,rural,val,33.9,0.0,6.2,54.9,3.8,0.4,0.0,0.7,0.0,0.0,0.0,Cropland,54.9,88.8
+Gainesville Florida,29.65,-82.32,Subtropical,USA,town,val,71.8,0.0,10.3,0.1,16.8,0.2,0.0,0.8,0.0,0.0,0.0,Tree cover,71.8,88.6
+Delhi,28.61,77.21,Subtropical,India,city,test_india,44.6,0.8,1.9,1.7,49.3,0.5,0.0,1.0,0.0,0.0,0.0,Built-up,49.3,93.9
+Mumbai Thane,19.13,72.9,Tropical,India,city,test_india,41.5,0.0,2.2,3.1,40.3,1.4,0.0,5.8,0.3,5.3,0.0,Tree cover,41.5,81.8
+Bengaluru,12.97,77.59,Tropical,India,city,test_india,22.3,0.8,1.0,1.4,73.2,0.7,0.0,0.7,0.0,0.0,0.0,Built-up,73.2,95.5
+Varanasi,25.32,83.01,Subtropical,India,town,test_india,15.1,0.0,7.1,10.4,59.1,2.2,0.0,6.1,0.0,0.0,0.0,Built-up,59.1,74.2
+Manali,32.24,77.19,Alpine,India,town,test_india,70.9,0.0,24.8,0.0,2.6,1.2,0.0,0.5,0.0,0.0,0.1,Tree cover,70.9,95.7
+Mysuru,12.3,76.65,Tropical,India,town,test_india,24.7,0.8,17.5,3.8,52.2,0.4,0.0,0.6,0.0,0.0,0.0,Built-up,52.2,76.9
+Punjab farmland,30.25,75.84,Subtropical,India,rural,test_india,5.9,1.1,2.8,73.5,16.1,0.5,0.0,0.0,0.0,0.0,0.0,Cropland,73.5,89.6
+Kerala backwaters,9.5,76.35,Tropical,India,rural,test_india,30.4,0.0,1.1,21.6,13.8,0.5,0.0,28.8,3.8,0.0,0.0,Tree cover,30.4,59.2
+Jaisalmer,26.92,70.9,Arid,India,rural,test_india,3.3,13.2,0.1,11.7,10.1,61.4,0.0,0.3,0.0,0.0,0.0,Bare/sparse,61.4,74.6

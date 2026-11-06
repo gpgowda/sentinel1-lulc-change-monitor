@@ -1,0 +1,16 @@
+{
+  "VV": {
+    "mean": -9.736767323944198,
+    "std": 5.054579890383318,
+    "clip_low": -25.0,
+    "clip_high": 5.0
+  },
+  "VH": {
+    "mean": -16.90492746954593,
+    "std": 5.223265535814779,
+    "clip_low": -32.0,
+    "clip_high": 0.0
+  },
+  "filter": "Lee 5x5",
+  "computed_from": "training boxes only"
+}
